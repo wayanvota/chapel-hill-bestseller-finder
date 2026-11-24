@@ -1,0 +1,1834 @@
+{
+  "start": "2021-11-22",
+  "end": "2026-11-22",
+  "source": "Hawes Publications, secondary transcription of NYT hardcover lists",
+  "issues": [
+    {
+      "date": "2021-11-28",
+      "url": "https://hawes.com/2021/2021-11-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "46b36e2389b9158275b3ad5f7cc3dc5d484a0dca346abed957fc0e9a45dc937e"
+    },
+    {
+      "date": "2021-12-05",
+      "url": "https://hawes.com/2021/2021-12-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "007ac704f30afabf82e0e6294958a19d0dcef2caf083ffa3069ca9ecb6cd0247"
+    },
+    {
+      "date": "2021-12-12",
+      "url": "https://hawes.com/2021/2021-12-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "34336cc368b5787eacb0f5644d35d5a315a031267570a4a3a4c5631608d0f99e"
+    },
+    {
+      "date": "2021-12-19",
+      "url": "https://hawes.com/2021/2021-12-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1365eaa9738765778545db9fab515cbd5c3245953ceecaa5f555ee1f5efed62e"
+    },
+    {
+      "date": "2021-12-26",
+      "url": "https://hawes.com/2021/2021-12-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4ffda572a2ed037faec6f69276db422a18b64f538fd6b98536b1a1370cf672af"
+    },
+    {
+      "date": "2022-01-02",
+      "url": "https://hawes.com/2022/2022-01-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f49e8122c919081a9ec38235313d1f8c36502ea97917af16933c2ade1afbfa29"
+    },
+    {
+      "date": "2022-01-09",
+      "url": "https://hawes.com/2022/2022-01-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "658a63d4db2d75a8cebcefa005a20f9b4582d4ba486b9d44fea929c0baba7c90"
+    },
+    {
+      "date": "2022-01-16",
+      "url": "https://hawes.com/2022/2022-01-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ca680c3db96dcab439bbfbd48fda7345d7d3fd222e66dc9339e4e29d77e513d1"
+    },
+    {
+      "date": "2022-01-23",
+      "url": "https://hawes.com/2022/2022-01-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5a76b0b5c690e979e8dfd5d42d5edc5307b0b6f5dd619a84e468e14d55fde1b5"
+    },
+    {
+      "date": "2022-01-30",
+      "url": "https://hawes.com/2022/2022-01-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "897e00f937d09ae0924192196a14cc955edcb0fcdbfad607b43cb25ec7806746"
+    },
+    {
+      "date": "2022-02-06",
+      "url": "https://hawes.com/2022/2022-02-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bd17af5a343942471c0b0bd664b906730501ce23ea2e5804a62ed2f049aa267d"
+    },
+    {
+      "date": "2022-02-13",
+      "url": "https://hawes.com/2022/2022-02-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c1fcfe2b3c9fe9ea4dd01ac4f0c1358a7bfa9105b16ae91c59df2c284bb26a32"
+    },
+    {
+      "date": "2022-02-20",
+      "url": "https://hawes.com/2022/2022-02-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "53804bb2cf6494e5cec4326d2812f3bfe60c62e791b3b7479e2f296cf968ce94"
+    },
+    {
+      "date": "2022-02-27",
+      "url": "https://hawes.com/2022/2022-02-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1a76e0a1aceb89efa9b863025fd5a84543cddcf925f48c115c3aef9679b29a25"
+    },
+    {
+      "date": "2022-03-06",
+      "url": "https://hawes.com/2022/2022-03-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f70993c93cae37f044b22fa030376e060d1c12ce4258b14c8117a02e9d6808d5"
+    },
+    {
+      "date": "2022-03-13",
+      "url": "https://hawes.com/2022/2022-03-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "dfcec1d1fd3f5263567cd844a6f4edfd701ccf109f22c354e6b52481c0631de3"
+    },
+    {
+      "date": "2022-03-20",
+      "url": "https://hawes.com/2022/2022-03-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "dd30152f5dbcf7730702bd8b6d83f8a69828a946f07d568efa9c3ec25a20bbfe"
+    },
+    {
+      "date": "2022-03-27",
+      "url": "https://hawes.com/2022/2022-03-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d42ee3bae2cf7e5e1e6c60b70940ffda305f107c2dffa80f6806d87372fc93a7"
+    },
+    {
+      "date": "2022-04-03",
+      "url": "https://hawes.com/2022/2022-04-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "10a13ad27a81f6231d300b7d6c731b5aadd80ddbfdfcbb865b017da925901750"
+    },
+    {
+      "date": "2022-04-10",
+      "url": "https://hawes.com/2022/2022-04-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "38033c0dfd9288d58fd42bd7be54570cf108347bc85e20f53a0e8e0a46e85aa5"
+    },
+    {
+      "date": "2022-04-17",
+      "url": "https://hawes.com/2022/2022-04-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "03e9837febddccb2828230316d86417f82e755b831fcb5b2fffc0c759732a432"
+    },
+    {
+      "date": "2022-04-24",
+      "url": "https://hawes.com/2022/2022-04-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bd78640cef073f55690bf7b237e5d07d3d290c913dbcb446306c54bf81b5a2e8"
+    },
+    {
+      "date": "2022-05-01",
+      "url": "https://hawes.com/2022/2022-05-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a0dd468f383d9701aff269498384c3a3bc26c05e19f4126e9b82dd5613d30dae"
+    },
+    {
+      "date": "2022-05-08",
+      "url": "https://hawes.com/2022/2022-05-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "99a6ba93d9d9c1be62451c194ce9e23a8c95a41b8ccde535179a99a4e0156a90"
+    },
+    {
+      "date": "2022-05-15",
+      "url": "https://hawes.com/2022/2022-05-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6a90860f210339d0056dcb4d2d603cdb35011b0ff71dd9ff9cc25ac4155e42bd"
+    },
+    {
+      "date": "2022-05-22",
+      "url": "https://hawes.com/2022/2022-05-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f3f5c345dcc1d4ab28d23d5631472ba56d6b9f535232a6ae1cfdaec6bde36082"
+    },
+    {
+      "date": "2022-05-29",
+      "url": "https://hawes.com/2022/2022-05-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d5965933ffad637ef0f434ba08fe862e394a5693f16dcaaabee3c018fe10a9e8"
+    },
+    {
+      "date": "2022-06-05",
+      "url": "https://hawes.com/2022/2022-06-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ed275986aacad7cfe69d4b37d92deed362d47e9bc7d43f5422ab8109108595a8"
+    },
+    {
+      "date": "2022-06-12",
+      "url": "https://hawes.com/2022/2022-06-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c200a37a6430488d4f891a8b75dba78399fdffdf57104d4e961a665ca02e73c0"
+    },
+    {
+      "date": "2022-06-19",
+      "url": "https://hawes.com/2022/2022-06-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c4f128955611a711f103a246730a3a1254a75511b114aba7794f6458c76544a3"
+    },
+    {
+      "date": "2022-06-26",
+      "url": "https://hawes.com/2022/2022-06-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "e7ec44418f10d0dad555007758b3e2918f063054800a5983a015c61ff12c152f"
+    },
+    {
+      "date": "2022-07-03",
+      "url": "https://hawes.com/2022/2022-07-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a5318f330c1e3353a510c8ce5e73e7962cbf4afd6f84f88b3faafabbdabfc152"
+    },
+    {
+      "date": "2022-07-10",
+      "url": "https://hawes.com/2022/2022-07-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0fa6fdcbed8ebba61e7f4fcb5653a8b3a78b2e604d80b628d9a0f6f943e38084"
+    },
+    {
+      "date": "2022-07-17",
+      "url": "https://hawes.com/2022/2022-07-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9956bcce6878ba6736f15cfd84aa66e89b600d7f6b3acd8b773b9652bc9d1798"
+    },
+    {
+      "date": "2022-07-24",
+      "url": "https://hawes.com/2022/2022-07-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5cedd9610f169c8ca066b6d65fb79462db96c64df64b028018e8ec668c6dd8cc"
+    },
+    {
+      "date": "2022-07-31",
+      "url": "https://hawes.com/2022/2022-07-31.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d1a6bd06d7ab5f750b47d05ef91bb65f78abff3df59e9e82e4b8e719239beeed"
+    },
+    {
+      "date": "2022-08-07",
+      "url": "https://hawes.com/2022/2022-08-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0750d807bdfc9c8833317ede160bbe34f0011a219e49799fb5715db99d0f25c5"
+    },
+    {
+      "date": "2022-08-14",
+      "url": "https://hawes.com/2022/2022-08-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "2cfe7e99e94987896c5645aa97ab430ac010ee44012bfa78b306d8611412c54d"
+    },
+    {
+      "date": "2022-08-21",
+      "url": "https://hawes.com/2022/2022-08-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "723d0bf7b545308e7c6d9789a95e2a89a29080fc05a5f31da9333c8ca1320c4d"
+    },
+    {
+      "date": "2022-08-28",
+      "url": "https://hawes.com/2022/2022-08-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3481372a25bab451b8ac915632ce532f9165e779303d18450cba91d18527e751"
+    },
+    {
+      "date": "2022-09-04",
+      "url": "https://hawes.com/2022/2022-09-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4883c49ae1719b9d6bf889c356ecefb8b6dd31f9a585db8ff1ecfada04bdeb66"
+    },
+    {
+      "date": "2022-09-11",
+      "url": "https://hawes.com/2022/2022-09-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f1065657fb9d5a46cc712960a3e167626ff00ba074002d7105ae82787b99dfc9"
+    },
+    {
+      "date": "2022-09-18",
+      "url": "https://hawes.com/2022/2022-09-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f6a64a11b504ad12da84d82b3b094231426f9f43498bf674d42ff115d60d384b"
+    },
+    {
+      "date": "2022-09-25",
+      "url": "https://hawes.com/2022/2022-09-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "89698eae414f6369fc17dd3197dd4b9a8a2d746225571d2620c35c5158b8b8da"
+    },
+    {
+      "date": "2022-10-02",
+      "url": "https://hawes.com/2022/2022-10-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ec0dd6bc32a0baec4febad0bf49a51c72ab5a4afd07514bef8d89871a2df9832"
+    },
+    {
+      "date": "2022-10-09",
+      "url": "https://hawes.com/2022/2022-10-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8b45ccca3eeda169a08286ce9b765c911205c9b3d014497e72b069213a3c6a55"
+    },
+    {
+      "date": "2022-10-16",
+      "url": "https://hawes.com/2022/2022-10-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7b62846772cc9c8d1d23702a47473aba68e16f7c756da3d2047247619ab79137"
+    },
+    {
+      "date": "2022-10-23",
+      "url": "https://hawes.com/2022/2022-10-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "67795571821836904e04d296f959971bf2421e287f44ddd172664bd594b58286"
+    },
+    {
+      "date": "2022-10-30",
+      "url": "https://hawes.com/2022/2022-10-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4cac21fe24bf8bead58a6e5d1c831746afaa5bf67ecae49aa24d3c9161bfc464"
+    },
+    {
+      "date": "2022-11-06",
+      "url": "https://hawes.com/2022/2022-11-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7a2e490c8c4fbcd664fa9e7c41d304f4450c7d491cb273f118970a1c3130ba98"
+    },
+    {
+      "date": "2022-11-13",
+      "url": "https://hawes.com/2022/2022-11-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7974b1cffb6ff17dd34d2caaf14d00d957f10ac084cc08b4d9bed597e73bdc8b"
+    },
+    {
+      "date": "2022-11-20",
+      "url": "https://hawes.com/2022/2022-11-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b1069561b25130cec57f9b355be62391405700ac21d249fd82fdd7d4893157d9"
+    },
+    {
+      "date": "2022-11-27",
+      "url": "https://hawes.com/2022/2022-11-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "04d707e1f29382ceec69059f62d2f266a00b6156300512d15cdf595e1b915db7"
+    },
+    {
+      "date": "2022-12-04",
+      "url": "https://hawes.com/2022/2022-12-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6669b7c6e0bdac1bd1e7b40a55ea16cfda3287721c4f663648aeb1c6b2ff9f60"
+    },
+    {
+      "date": "2022-12-11",
+      "url": "https://hawes.com/2022/2022-12-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "daf5f55bc0d7b10b1d8640e0d9df34f4cbedb7c8ad6fed7d22afe1cb5afb3d36"
+    },
+    {
+      "date": "2022-12-18",
+      "url": "https://hawes.com/2022/2022-12-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6219f7fd6a8f054d80b7328f796b0e7ba1bc9b7f62a753b3c4b2feed24fce5c4"
+    },
+    {
+      "date": "2022-12-25",
+      "url": "https://hawes.com/2022/2022-12-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4a0b0a12c26def335b6dadfcfbc187734370b347be8592f5c20726a756d01ee7"
+    },
+    {
+      "date": "2023-01-01",
+      "url": "https://hawes.com/2023/2023-01-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "47311b6a7749dff68b6fc778c0146f7631b33c96c7c4303e0bee533afe862dd0"
+    },
+    {
+      "date": "2023-01-08",
+      "url": "https://hawes.com/2023/2023-01-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bb235295c07733d50d4e9b90160e664f81b685694d8e68412676557125505ecd"
+    },
+    {
+      "date": "2023-01-15",
+      "url": "https://hawes.com/2023/2023-01-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7045715e007bb88a45f17e697cd205b5fd91c807e2caf9467d1c850d2d33c21b"
+    },
+    {
+      "date": "2023-01-22",
+      "url": "https://hawes.com/2023/2023-01-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c371fc12c2b098b502c18f2e84b9be4a1ad409d380af61efd05853cc9067ab97"
+    },
+    {
+      "date": "2023-01-29",
+      "url": "https://hawes.com/2023/2023-01-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "fd7ef87bb767d508e361b774407d0dc46576e3e3e01a34c4c454a2ffd4b9a90c"
+    },
+    {
+      "date": "2023-02-05",
+      "url": "https://hawes.com/2023/2023-02-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f22e91612109c83addd73c0c3f720394ff138efb6c90de82108038189e389ded"
+    },
+    {
+      "date": "2023-02-12",
+      "url": "https://hawes.com/2023/2023-02-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d8c3f4b04ca22b515dc55a77ea1701572ef782639617173ac8665b553a7f19ee"
+    },
+    {
+      "date": "2023-02-19",
+      "url": "https://hawes.com/2023/2023-02-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b262446fd3ebb3fbd439e01e15348b881b6adb6f7c1ab7046febbb5f650605c3"
+    },
+    {
+      "date": "2023-02-26",
+      "url": "https://hawes.com/2023/2023-02-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "85f4b5727c70cec9cfb3de2257689ea8947cbcfd1c6ff1adbb58c5ae8e205a04"
+    },
+    {
+      "date": "2023-03-05",
+      "url": "https://hawes.com/2023/2023-03-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1959ccea779869d4caa5280de2adeff4ae965f0b65f31e98830ea9fb17b2fe60"
+    },
+    {
+      "date": "2023-03-12",
+      "url": "https://hawes.com/2023/2023-03-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "43062845afc5c2004ab85bffbe53a4fb592451845306a2dde1d2b2ee41618d59"
+    },
+    {
+      "date": "2023-03-19",
+      "url": "https://hawes.com/2023/2023-03-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "fbbb593ac265e01c7183af9000f2a8ddb17c6b24c56bd2d9390a5feeac965cef"
+    },
+    {
+      "date": "2023-03-26",
+      "url": "https://hawes.com/2023/2023-03-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "962ce589915bb820209cd0d8dff332258be07a10a21d17243cccf2fc4db5f43b"
+    },
+    {
+      "date": "2023-04-02",
+      "url": "https://hawes.com/2023/2023-04-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4cfe898b098d2ec16b08498ed71746da8f9aff6f10189fa8affcbeb0bd8a8a09"
+    },
+    {
+      "date": "2023-04-09",
+      "url": "https://hawes.com/2023/2023-04-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ae050bec8fd777a1105f9858049179cd26fe84834ef6881cc4a8a2cb3e4abbc8"
+    },
+    {
+      "date": "2023-04-16",
+      "url": "https://hawes.com/2023/2023-04-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6bb52bb918bd3f4699a8cc717e56c80440d454a1858b7cba955f68eed874044b"
+    },
+    {
+      "date": "2023-04-23",
+      "url": "https://hawes.com/2023/2023-04-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "098e855d8945df61b3d6af62c2e0b8501515eeac108175356c95f79bc35cf504"
+    },
+    {
+      "date": "2023-04-30",
+      "url": "https://hawes.com/2023/2023-04-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "2589bf6d81bb99d29a3ba6fe69abf30d0540d8618fe40e5c52c198f649df8aa9"
+    },
+    {
+      "date": "2023-05-07",
+      "url": "https://hawes.com/2023/2023-05-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "48e684d498076e25be541d0516cf8df8119a28c8719ae608ef6bc59106fceb85"
+    },
+    {
+      "date": "2023-05-14",
+      "url": "https://hawes.com/2023/2023-05-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "20ca96a0b880722fdb464525f0fb7cb4a3369b1200dd3f6d237ed564aae1f9c1"
+    },
+    {
+      "date": "2023-05-21",
+      "url": "https://hawes.com/2023/2023-05-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ee9d475e9493ef562c5c21abb7e16b1c223f66414dedf51350af306ac429a3e0"
+    },
+    {
+      "date": "2023-05-28",
+      "url": "https://hawes.com/2023/2023-05-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3cedf274ae282c73465d02af604a5a2cc6cd9a71782d8dd1477bd7dbcb2b0c6b"
+    },
+    {
+      "date": "2023-06-04",
+      "url": "https://hawes.com/2023/2023-06-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "fd40da2206ca8c8c404bc5b0867b58941f64bab414217c7598feb6e4a8f6555b"
+    },
+    {
+      "date": "2023-06-11",
+      "url": "https://hawes.com/2023/2023-06-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "70c393732c2257224ade4ecbe41a1c772c6fec80293d4c4be7435d613c8deee9"
+    },
+    {
+      "date": "2023-06-18",
+      "url": "https://hawes.com/2023/2023-06-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0fc68d7216dd70ad4237396981ef9d4a9aaf4b6e9ae69f5f65e7852ed2697de3"
+    },
+    {
+      "date": "2023-06-25",
+      "url": "https://hawes.com/2023/2023-06-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9c6a17aa88b58d64ed417a48868faeb97c68410a079e05d2b1ae3203350c9179"
+    },
+    {
+      "date": "2023-07-02",
+      "url": "https://hawes.com/2023/2023-07-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d241f78e2edced0db2fd6f0fd6f5aeca46e00cdb1b845d73757d456518591121"
+    },
+    {
+      "date": "2023-07-09",
+      "url": "https://hawes.com/2023/2023-07-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a0ebcecec233f2435fb2a63198c407ebaaef422341577c8de70b94c22be4df03"
+    },
+    {
+      "date": "2023-07-16",
+      "url": "https://hawes.com/2023/2023-07-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9a56293d68564b949da138bbb6bac3eb5e9aac539b794ba658b56c65d718e5cf"
+    },
+    {
+      "date": "2023-07-23",
+      "url": "https://hawes.com/2023/2023-07-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "51386cdad5774292dbe0a10eab6b57dca874e98ef85946ede9a3e13c409e20ab"
+    },
+    {
+      "date": "2023-07-30",
+      "url": "https://hawes.com/2023/2023-07-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "489f2d0a953e3be6aa472ee8216c5d3b17665efce99eed02e996901260172a55"
+    },
+    {
+      "date": "2023-08-06",
+      "url": "https://hawes.com/2023/2023-08-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a9bd8d68557f2e2c5178bb7f784cab4b8ffba81be0df8b68f3f97f39a23f02fa"
+    },
+    {
+      "date": "2023-08-13",
+      "url": "https://hawes.com/2023/2023-08-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5fffbe1345ddf66b5d0398b6c20585b1c48db09d7976ccafe7f9f9653ce24698"
+    },
+    {
+      "date": "2023-08-20",
+      "url": "https://hawes.com/2023/2023-08-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3882bc6437cfec4437db9e6079e44d40ce946d3c12b11dfb3fd1d7ff5674ef98"
+    },
+    {
+      "date": "2023-08-27",
+      "url": "https://hawes.com/2023/2023-08-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6eeaf1a2c037c5fcc0296afd9b9330f24db12354fc184177b196806e655de9ef"
+    },
+    {
+      "date": "2023-09-03",
+      "url": "https://hawes.com/2023/2023-09-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d0a971daac9805714ab5c79a49ee5a4fe3ff0fb0648b56642d3ed1fc61505c17"
+    },
+    {
+      "date": "2023-09-10",
+      "url": "https://hawes.com/2023/2023-09-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9fad9cad5165a2c01a9cd74aef2803c056522f6236587a4c80ea5f86b318d9f1"
+    },
+    {
+      "date": "2023-09-17",
+      "url": "https://hawes.com/2023/2023-09-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "cf226fd4f429f2402f46a320c411ab193e20f77797e2390170bed0f87beb7874"
+    },
+    {
+      "date": "2023-09-24",
+      "url": "https://hawes.com/2023/2023-09-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9daffaa58000c76adc75f3a3414381b23968c22dc918d267b25ece1f30b2430c"
+    },
+    {
+      "date": "2023-10-01",
+      "url": "https://hawes.com/2023/2023-10-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5747de5e09029b4d729bd26f13c7867f4c54e48e66ccc5da63aaadeeae392ce1"
+    },
+    {
+      "date": "2023-10-08",
+      "url": "https://hawes.com/2023/2023-10-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8cf7f7e6be7399f937eb24b6ce2a51cf7a64c6b62c048ccce03154c2e93894b8"
+    },
+    {
+      "date": "2023-10-15",
+      "url": "https://hawes.com/2023/2023-10-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d35bf92520a79bcac48db3af5694b7f0966c820ac226e5701cc0c217b42b851a"
+    },
+    {
+      "date": "2023-10-22",
+      "url": "https://hawes.com/2023/2023-10-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0a6b93fb56035f1a09e8e41c4c0c9d6cb215ed3f62ac1ce82783aef5d761b800"
+    },
+    {
+      "date": "2023-10-29",
+      "url": "https://hawes.com/2023/2023-10-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7eb06eaab165368a682e4013d3a9ee8ada9651edccfbc386b5b129fa506257b7"
+    },
+    {
+      "date": "2023-11-05",
+      "url": "https://hawes.com/2023/2023-11-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6c67abc6d147a086eacd414f03e488112320c27c982c0f176fdc6d65ca24207d"
+    },
+    {
+      "date": "2023-11-12",
+      "url": "https://hawes.com/2023/2023-11-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "35754088d07fdee179a04a4c01b71c48a7d7fdfdd85e48e3aada08c14ec37498"
+    },
+    {
+      "date": "2023-11-19",
+      "url": "https://hawes.com/2023/2023-11-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bfa88a28f04dd27a22ab3bc5e7fc602560c1831ed81a1c01617344e2e166c687"
+    },
+    {
+      "date": "2023-11-26",
+      "url": "https://hawes.com/2023/2023-11-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "efe4c2e5e680dc6db8519b1a4874e76786ed2b537b769ccd9ac89c6174f99a27"
+    },
+    {
+      "date": "2023-12-03",
+      "url": "https://hawes.com/2023/2023-12-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5d934d033301825152f077941f2d1033a41f7acccedc036a3b082b5b13a43a7d"
+    },
+    {
+      "date": "2023-12-10",
+      "url": "https://hawes.com/2023/2023-12-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "adea9a84ab86ffabd03031a0897b5bf5451b60bdc5653afc4956a8b9e895c2cb"
+    },
+    {
+      "date": "2023-12-17",
+      "url": "https://hawes.com/2023/2023-12-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ffe430250b162f203ae85a0b117845525052aae667d618779d7f0f71c4d7a43f"
+    },
+    {
+      "date": "2023-12-24",
+      "url": "https://hawes.com/2023/2023-12-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "44576f4fa9d44f64823fe2efdae053fd3efa025210b3ba6f99527d0b5cfe5f27"
+    },
+    {
+      "date": "2023-12-31",
+      "url": "https://hawes.com/2023/2023-12-31.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3f3f6fd3bd75de331b166ebbbd4c949120f297770cc86f1e3ef428ec6724d22a"
+    },
+    {
+      "date": "2024-01-07",
+      "url": "https://hawes.com/2024/2024-01-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "335c8c5a40d76cffaec7b52ee6c3046a3dec78b4494f8acc7dddd53db2da7e53"
+    },
+    {
+      "date": "2024-01-14",
+      "url": "https://hawes.com/2024/2024-01-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "35aec68cae7ae11ee34d0c7ecd90954239288ed4e44e31d4841d11e898700da8"
+    },
+    {
+      "date": "2024-01-21",
+      "url": "https://hawes.com/2024/2024-01-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b1762e2f832fab620a74a7870a854e5955756fc85a58c1adcad4016493092fac"
+    },
+    {
+      "date": "2024-01-28",
+      "url": "https://hawes.com/2024/2024-01-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f9814eca968b94dfcb43f6342dad696e85557b787844d72f2be4712d8890ea59"
+    },
+    {
+      "date": "2024-02-04",
+      "url": "https://hawes.com/2024/2024-02-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f046f34955ce477d1a3198f332f640c17ea7eae4e5b6aebadb5d6d488caed20e"
+    },
+    {
+      "date": "2024-02-11",
+      "url": "https://hawes.com/2024/2024-02-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7399e3d9e1dcfc5ff918e68eed673d8140922bc9159aee8add863424f883a0cc"
+    },
+    {
+      "date": "2024-02-18",
+      "url": "https://hawes.com/2024/2024-02-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "98ff68ecc949eb0b3b80210446cba4f6130fa0e4edebffd974a620407f8c6328"
+    },
+    {
+      "date": "2024-02-25",
+      "url": "https://hawes.com/2024/2024-02-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8162fe82eecf31ca9d5c513e21f4646e176091bfda86df33f0420690fb6d4fe1"
+    },
+    {
+      "date": "2024-03-03",
+      "url": "https://hawes.com/2024/2024-03-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b657cedb096a76bf8708044afa6a6afd40e0087793708008bd1c00c55e0a78c1"
+    },
+    {
+      "date": "2024-03-10",
+      "url": "https://hawes.com/2024/2024-03-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "cbba6b9965670c7d7dfacb5f2e5a04ea7d410f60525aaf27d422a60c3cd105a5"
+    },
+    {
+      "date": "2024-03-17",
+      "url": "https://hawes.com/2024/2024-03-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ae12a31bf94c60f8c1f9d9fd82b114a769a3a1015acde82afcadf7ddee9d1255"
+    },
+    {
+      "date": "2024-03-24",
+      "url": "https://hawes.com/2024/2024-03-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5b5d4dbfe61085ee5743f5d47000cb09d41cb2b9701891545aa402b63602a265"
+    },
+    {
+      "date": "2024-03-31",
+      "url": "https://hawes.com/2024/2024-03-31.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ec393851ced312a0b757d1f4a0cd97c63f834ad671c892891ae8a573818c484b"
+    },
+    {
+      "date": "2024-04-07",
+      "url": "https://hawes.com/2024/2024-04-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "701feaafddcb343f5c5cf745af74ddeb5053b5220a28d1ad437b30cb7a522b9e"
+    },
+    {
+      "date": "2024-04-14",
+      "url": "https://hawes.com/2024/2024-04-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "904025d81ceb64f94d49c9ab6c07fda753d855497c4f91f963e45605312a777f"
+    },
+    {
+      "date": "2024-04-21",
+      "url": "https://hawes.com/2024/2024-04-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4ccc241d27111ebefed611e0f1cb0c5d708592a9b1432db56a4d39436ca4ac6f"
+    },
+    {
+      "date": "2024-04-28",
+      "url": "https://hawes.com/2024/2024-04-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "159bcb71328ad39525a84235518f62ac911bc52bd9e2050ca756321b826f3d95"
+    },
+    {
+      "date": "2024-05-05",
+      "url": "https://hawes.com/2024/2024-05-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bd4112efbb63554de0d430290d16790b06ac0520f49f4a1cc93dfe9ed64c5455"
+    },
+    {
+      "date": "2024-05-12",
+      "url": "https://hawes.com/2024/2024-05-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ebcb7c47f7c84f09dc4f9b4362f0408f3d9710133abe84f29d5816b4958050a8"
+    },
+    {
+      "date": "2024-05-19",
+      "url": "https://hawes.com/2024/2024-05-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "24ed4cfa818478fa6ac05637709b8ef1e231081bbeb8a363d8826e921a284246"
+    },
+    {
+      "date": "2024-05-26",
+      "url": "https://hawes.com/2024/2024-05-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7595c16ae71e61051284afa1c64288ef4c1d433d50b395de2f74c8307a12c3bf"
+    },
+    {
+      "date": "2024-06-02",
+      "url": "https://hawes.com/2024/2024-06-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "385d03561ca022067de1576362c0656cdeb91c9bad9e4e131911e7774e62d54e"
+    },
+    {
+      "date": "2024-06-09",
+      "url": "https://hawes.com/2024/2024-06-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "63a3f94dcba9284b6eba9fe7135eefe954772314810713178559445574c4b149"
+    },
+    {
+      "date": "2024-06-16",
+      "url": "https://hawes.com/2024/2024-06-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bedac45caab4cdf5eee7aa90a648013043b991593d3cd12da928746f06f3d3ef"
+    },
+    {
+      "date": "2024-06-23",
+      "url": "https://hawes.com/2024/2024-06-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "dd660f0b744e869bc7e10159e558b301da44a96c54c7120dfa3191cb8dce0a7e"
+    },
+    {
+      "date": "2024-06-30",
+      "url": "https://hawes.com/2024/2024-06-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "66631df23ae7624fce5c313581826e25dd3203a41297a1fb65267d743b532404"
+    },
+    {
+      "date": "2024-07-07",
+      "url": "https://hawes.com/2024/2024-07-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b71b8d657d1edd5b3aaf6faf452e226e031e66feb41fa1b1f048124fb15b4807"
+    },
+    {
+      "date": "2024-07-14",
+      "url": "https://hawes.com/2024/2024-07-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6fe9942dfb1b06d6474d3ea5ddb67015ee2141897a8d55c14eb4ff5998834e2c"
+    },
+    {
+      "date": "2024-07-21",
+      "url": "https://hawes.com/2024/2024-07-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c397c319026dc5f4cd59effd8ff93f39ecb9c41e98d491b5938ab31ffc311793"
+    },
+    {
+      "date": "2024-07-28",
+      "url": "https://hawes.com/2024/2024-07-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8520393af663a30f13478c9ff086a0d6071aa383b25b935bbdc567f0e4c8f3e0"
+    },
+    {
+      "date": "2024-08-04",
+      "url": "https://hawes.com/2024/2024-08-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9b0ea59938e9288616f14b772d243f6a3f928dda6b1ba7d97476a3349dd6c1f4"
+    },
+    {
+      "date": "2024-08-11",
+      "url": "https://hawes.com/2024/2024-08-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a13b8c39687e469e338885aa711173d90d7e1c22de23ccd059ebf94ac0252533"
+    },
+    {
+      "date": "2024-08-18",
+      "url": "https://hawes.com/2024/2024-08-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5058a1a5045e826f00e72c1aa15defd0cbbfcdab233f10db9ae1231f629bef2b"
+    },
+    {
+      "date": "2024-08-25",
+      "url": "https://hawes.com/2024/2024-08-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "29c9c489a20fdc4711f5936ee56f0e75658238b204b4ca839ece04483a236494"
+    },
+    {
+      "date": "2024-09-01",
+      "url": "https://hawes.com/2024/2024-09-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8bf99b9b798bc589d208510967f31ea55e3f078ccb39d5f9f30eec6adfa084c0"
+    },
+    {
+      "date": "2024-09-08",
+      "url": "https://hawes.com/2024/2024-09-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0a177adc6b499792d4570778e9bb1b21d1f95a419db272d9f21f5160d2dc105a"
+    },
+    {
+      "date": "2024-09-15",
+      "url": "https://hawes.com/2024/2024-09-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a4bab9365e8fdca7fa46504d884b266740c05354d51a1330d33b82251e02d633"
+    },
+    {
+      "date": "2024-09-22",
+      "url": "https://hawes.com/2024/2024-09-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "19a1be676cc0e130af40d18811d32509439f4724546aa2db5e3ddabaac66b06a"
+    },
+    {
+      "date": "2024-09-29",
+      "url": "https://hawes.com/2024/2024-09-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bf3e402caf037baa1be5959429b28574a7f7ec1c9107c66a8b5f022e84e19c64"
+    },
+    {
+      "date": "2024-10-06",
+      "url": "https://hawes.com/2024/2024-10-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a4f0e26097551295cda194c1118d6dc1e71a9135844190fd8aa8434990615aba"
+    },
+    {
+      "date": "2024-10-13",
+      "url": "https://hawes.com/2024/2024-10-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "08d0c8854a92097af5822e2d1343b1c09dc03d6731018b1491cf40a00688aa9d"
+    },
+    {
+      "date": "2024-10-20",
+      "url": "https://hawes.com/2024/2024-10-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c28af9821dd4a7c80f83a82d4ead8d78f358ce857d084d386e94a3140ba5b768"
+    },
+    {
+      "date": "2024-10-27",
+      "url": "https://hawes.com/2024/2024-10-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "2ab0161251ca02e6eeb5a7f16e2e96622b1b7d64f160ddf5a2ed347ba81c4532"
+    },
+    {
+      "date": "2024-11-03",
+      "url": "https://hawes.com/2024/2024-11-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9c0e91195e9433da3095e97ae11fc16ef9d69b43831dbc4c717442fec234cf3f"
+    },
+    {
+      "date": "2024-11-10",
+      "url": "https://hawes.com/2024/2024-11-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a72a58d6d299d9428d8fbe69814644fbbe776240f1ab28b47658ad30dc1b1754"
+    },
+    {
+      "date": "2024-11-17",
+      "url": "https://hawes.com/2024/2024-11-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "632b15cdc1a6ac947dc608db8da1ca36f54dce075a48146ba0e6e87a9fcd7406"
+    },
+    {
+      "date": "2024-11-24",
+      "url": "https://hawes.com/2024/2024-11-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b1e042bfd36abbef0f1baa0c11512e2b3a510f735ac0c9553b6db455de05fd66"
+    },
+    {
+      "date": "2024-12-01",
+      "url": "https://hawes.com/2024/2024-12-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8319900e35848f12450100bc966bc3f368adaed150b1370676cc53a66e78856a"
+    },
+    {
+      "date": "2024-12-08",
+      "url": "https://hawes.com/2024/2024-12-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ce2a4bc63444a5ee352908465cc2d87fa02e7cf1ab50452a2e0b604cd2bf4359"
+    },
+    {
+      "date": "2024-12-15",
+      "url": "https://hawes.com/2024/2024-12-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3a5675e4c43b010cb8b7b649d994fd01da8a5e9fcdc5522d1edfefc81089898c"
+    },
+    {
+      "date": "2024-12-22",
+      "url": "https://hawes.com/2024/2024-12-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f8589de56346a6855bfa6e02d41f5c2bbd5bc231f44c2eb93f1ef8442ada265c"
+    },
+    {
+      "date": "2024-12-29",
+      "url": "https://hawes.com/2024/2024-12-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "acededd3ada5775c95105f17e0e3aa46c43249179265ba8b32cf90cbdf307511"
+    },
+    {
+      "date": "2025-01-05",
+      "url": "https://hawes.com/2025/2025-01-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "af7b130048ac2863772949affbd2b5da69a95b623c625200c42d8cf369a3b6d4"
+    },
+    {
+      "date": "2025-01-12",
+      "url": "https://hawes.com/2025/2025-01-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "72c149114a679ceaac275d14eca23256c9aed3c19df6b83de2437c4ea96ac6a2"
+    },
+    {
+      "date": "2025-01-19",
+      "url": "https://hawes.com/2025/2025-01-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ef384122e117b4402371c9792238895e4a447ce15fe1e0589383be7212165bfc"
+    },
+    {
+      "date": "2025-01-26",
+      "url": "https://hawes.com/2025/2025-01-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f738d49963a5f7cb0f38c932165dc7da3ab481e1d6298d2f5a61bceccb849d00"
+    },
+    {
+      "date": "2025-02-02",
+      "url": "https://hawes.com/2025/2025-02-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3a3e501ecc0ad78ea1a66cb5816e4d42b3d4b5d73b1850d687979dbec639523c"
+    },
+    {
+      "date": "2025-02-09",
+      "url": "https://hawes.com/2025/2025-02-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "63241b6bde680391ed38e0193959c36f44db53e1c2d05bfd1cdfeebd1e0b07b2"
+    },
+    {
+      "date": "2025-02-16",
+      "url": "https://hawes.com/2025/2025-02-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "60c32918165ea961484258bddcb7c23c5e927d5737447f41fdd0d17ef41b751e"
+    },
+    {
+      "date": "2025-02-23",
+      "url": "https://hawes.com/2025/2025-02-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "eb4434dc3dee7242844039bb67e5cdce8fff42e532ea353e591cd75adfdfde74"
+    },
+    {
+      "date": "2025-03-02",
+      "url": "https://hawes.com/2025/2025-03-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "abd6d3bdc83d8b11af155e08c567ae862311ade7d54b5830e26a0a05ab72114c"
+    },
+    {
+      "date": "2025-03-09",
+      "url": "https://hawes.com/2025/2025-03-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "8f410424fc0f3fb6a35985008d4f2eb0e4041c7bf1df644223c7847a578afab6"
+    },
+    {
+      "date": "2025-03-16",
+      "url": "https://hawes.com/2025/2025-03-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f18ac3e966eaac47b9efa03825318d4b95f57b8cc6e0cfe53bb4b189001e8fed"
+    },
+    {
+      "date": "2025-03-23",
+      "url": "https://hawes.com/2025/2025-03-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f63e611136b99e957ffea985e9e5316ead75be222eccc554ffcc8091bb894eef"
+    },
+    {
+      "date": "2025-03-30",
+      "url": "https://hawes.com/2025/2025-03-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "68ab17687cd43783666c1abb96bb95c80926abad5fe2470062aecec00461130a"
+    },
+    {
+      "date": "2025-04-06",
+      "url": "https://hawes.com/2025/2025-04-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1168b74330927e6aa8b42e7f0bb9bb8e0a72f8be11f766a7d5dfbfc2cb32d17f"
+    },
+    {
+      "date": "2025-04-13",
+      "url": "https://hawes.com/2025/2025-04-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "94655d647544e766ddff68fc5e858e1ab3dc8013b81ef9774d20830d0b67cdee"
+    },
+    {
+      "date": "2025-04-20",
+      "url": "https://hawes.com/2025/2025-04-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c816e9609fd9819cfc8690faa70a2441544337ff92e8758390fd5c5263dfbf16"
+    },
+    {
+      "date": "2025-04-27",
+      "url": "https://hawes.com/2025/2025-04-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c959e0394855f7e4fe7be5eabb3f76d12c79a88c76a082321613905fd33cd722"
+    },
+    {
+      "date": "2025-05-04",
+      "url": "https://hawes.com/2025/2025-05-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9b47b6729be75cc02438e1b097d4680986d4841a4bd0f1076591a9be3de9f94d"
+    },
+    {
+      "date": "2025-05-11",
+      "url": "https://hawes.com/2025/2025-05-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "e07b9662e40a2d9458da5dc7e9b056d67b5b6e8d3170ff9874f0d5073e1ba7cf"
+    },
+    {
+      "date": "2025-05-18",
+      "url": "https://hawes.com/2025/2025-05-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7c3e9306f98d04b1b8193968e4bb5499266660d060aa91b1eb9436fdc9bf9667"
+    },
+    {
+      "date": "2025-05-25",
+      "url": "https://hawes.com/2025/2025-05-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "bcf2f5f125adb227d5a73253b499e4511759f5dd7f49fb2be1f9e1624200fc0c"
+    },
+    {
+      "date": "2025-06-01",
+      "url": "https://hawes.com/2025/2025-06-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "97c8d18497a3ef88adf75b0e9acff299c2b26897b3e84eaaa263a3bf85bd6ba3"
+    },
+    {
+      "date": "2025-06-08",
+      "url": "https://hawes.com/2025/2025-06-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c03a6a61d4870b12ac05245ee94308ac840d463cb067fdbfce22ab75cbb2ba83"
+    },
+    {
+      "date": "2025-06-15",
+      "url": "https://hawes.com/2025/2025-06-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "96ef9e77479af47bd448871235907cced117cb2915244ad06cc4ae1d3e73ff55"
+    },
+    {
+      "date": "2025-06-22",
+      "url": "https://hawes.com/2025/2025-06-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6bf7d87b1d99a5d49d7551534770288fe7cd1558cb9859c5b114fb94d955480b"
+    },
+    {
+      "date": "2025-06-29",
+      "url": "https://hawes.com/2025/2025-06-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "3722f0128c76403db1a64a92f926276c982c6fd033b87b0a48d7723b9ff5969e"
+    },
+    {
+      "date": "2025-07-06",
+      "url": "https://hawes.com/2025/2025-07-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "43b3242d9893ad53d5d425e077693073e30b9f9219b3c847670bce54b5e39b5d"
+    },
+    {
+      "date": "2025-07-13",
+      "url": "https://hawes.com/2025/2025-07-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "78efad7e2a9707310dc67f694052799b54844b254d2e71083a05e75c4bdc6691"
+    },
+    {
+      "date": "2025-07-20",
+      "url": "https://hawes.com/2025/2025-07-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "30a53998fb0c54970e2a4da7dea30b61a09b30d32daec3f441a67c08461d2f0b"
+    },
+    {
+      "date": "2025-07-27",
+      "url": "https://hawes.com/2025/2025-07-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "938b8c42b3e4eb85c276e9208cfb8b2c3dda4c32e68d90189c5d53f105fb6b73"
+    },
+    {
+      "date": "2025-08-03",
+      "url": "https://hawes.com/2025/2025-08-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "77e7e0d18004f6659e78af2ab3adcac2f185620aac71cb9093f3ead26717fb29"
+    },
+    {
+      "date": "2025-08-10",
+      "url": "https://hawes.com/2025/2025-08-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "79c7ac86316cf6b92df5d1d7b052ec0dc37fb33838cafe4dfc4f33dddf08e107"
+    },
+    {
+      "date": "2025-08-17",
+      "url": "https://hawes.com/2025/2025-08-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "271d0ca5380431e3c52c2c66fc325a1c7a9b0235fd277994da51e904f0198bf1"
+    },
+    {
+      "date": "2025-08-24",
+      "url": "https://hawes.com/2025/2025-08-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "43888bb9f8e49666b296c9178a3d6f6ac3a3fc6ac8d79fcf4f88be4930bbb18e"
+    },
+    {
+      "date": "2025-08-31",
+      "url": "https://hawes.com/2025/2025-08-31.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a6be1e595c0f09212bbe0a45c85149b89abf048a4eb9340a01af41e80ba99006"
+    },
+    {
+      "date": "2025-09-07",
+      "url": "https://hawes.com/2025/2025-09-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0c3d873569314d8ae8830e161dc067b84d52d793affd8bc9fd98820e3d6738f9"
+    },
+    {
+      "date": "2025-09-14",
+      "url": "https://hawes.com/2025/2025-09-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "70f929040fd36f57939e6cf6b6913fdbbde446e44d9d106fdff5a80b86c5cb97"
+    },
+    {
+      "date": "2025-09-21",
+      "url": "https://hawes.com/2025/2025-09-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "fb78eda24ecf5e771bb5066b8d75d6a4e0f34662a0d4ce7fea5291e0cc9284fd"
+    },
+    {
+      "date": "2025-09-28",
+      "url": "https://hawes.com/2025/2025-09-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1f8691ad5474ed84e0440683da5490e48eec3a19a44f17a52b4f33157bc65358"
+    },
+    {
+      "date": "2025-10-05",
+      "url": "https://hawes.com/2025/2025-10-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "04d1cda8f32ad7057b62c5e5edd0c5ecb90a6fe5392ce21eb0ebf5d412310bf5"
+    },
+    {
+      "date": "2025-10-12",
+      "url": "https://hawes.com/2025/2025-10-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "68a84fb55804da95d053e9b92de77a11254515403266286a498771c62164a59d"
+    },
+    {
+      "date": "2025-10-19",
+      "url": "https://hawes.com/2025/2025-10-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1cb67c872154f3cd55d5ee96c666437a5177872ee4fe4d39cdab445237cf69b1"
+    },
+    {
+      "date": "2025-10-26",
+      "url": "https://hawes.com/2025/2025-10-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "80fa261aa02cdfbd9822ed9e05c94ba7e7bc1bc97eb3434c31a51ceeec5c9035"
+    },
+    {
+      "date": "2025-11-02",
+      "url": "https://hawes.com/2025/2025-11-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a512d0f57a4e27dc6f79cb4f07a1e7e0aa0853d1bf1d6831f7a24454419221bd"
+    },
+    {
+      "date": "2025-11-09",
+      "url": "https://hawes.com/2025/2025-11-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5ce9ffdc1fe78ec70377af5d26f46ea4341bb3dab0c6fb65c7842f3fba87af2b"
+    },
+    {
+      "date": "2025-11-16",
+      "url": "https://hawes.com/2025/2025-11-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "35a10ab18a2cbca4ed3e0dc56ac3b31bd53ffc14c8c10f766302fa76c79896a4"
+    },
+    {
+      "date": "2025-11-23",
+      "url": "https://hawes.com/2025/2025-11-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "16da50313501f534d575037aa5a5f67fe573f5dde36c83db37d9980b8e6cca9e"
+    },
+    {
+      "date": "2025-11-30",
+      "url": "https://hawes.com/2025/2025-11-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "4e981d33cca2334d134507070db1c67d178299812bf7c1e6e16dbfe2b769f1ee"
+    },
+    {
+      "date": "2025-12-07",
+      "url": "https://hawes.com/2025/2025-12-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b371575a97ea0819c4d548eed28d9646fb38ba7ab8d50f5a9b8c7db0e397b664"
+    },
+    {
+      "date": "2025-12-14",
+      "url": "https://hawes.com/2025/2025-12-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "e54f35f0081171e2c56810140d879bfba967749b34d51484f1b38f0cfb5dd4af"
+    },
+    {
+      "date": "2025-12-21",
+      "url": "https://hawes.com/2025/2025-12-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "39748180124a92b17ec7d0740a0653d8cc3e2495e521373c988842d38549c4e1"
+    },
+    {
+      "date": "2025-12-28",
+      "url": "https://hawes.com/2025/2025-12-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5f58bb383e6400376a5eef9cde080843d731a7cd90121cce929ed532471a5260"
+    },
+    {
+      "date": "2026-01-04",
+      "url": "https://hawes.com/2026/2026-01-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c6500aebbad389513525017667221f787fcfa6b20e535822ef5b68bb989f74b7"
+    },
+    {
+      "date": "2026-01-11",
+      "url": "https://hawes.com/2026/2026-01-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "cd1ce87b294aafd422955e3926f589354309a084ccfcd21e609841d35f370188"
+    },
+    {
+      "date": "2026-01-18",
+      "url": "https://hawes.com/2026/2026-01-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "26528ba6f4faf67be1f38c4878137f2353fae3e29f59ee8e154a1bae80140ed6"
+    },
+    {
+      "date": "2026-01-25",
+      "url": "https://hawes.com/2026/2026-01-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9a5280e7cc884991081a2738643bc299ab749fad36aa0cf12da16cd608098a61"
+    },
+    {
+      "date": "2026-02-01",
+      "url": "https://hawes.com/2026/2026-02-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b92c8e5a88aa32662094c0af915192ac9f1454d219bbc9f03b36c5121b6a36ba"
+    },
+    {
+      "date": "2026-02-08",
+      "url": "https://hawes.com/2026/2026-02-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0ba7d5d393bc53c4e739792b945b959ddc4b5474b32210ccaae9e02a7f9a1bd2"
+    },
+    {
+      "date": "2026-02-15",
+      "url": "https://hawes.com/2026/2026-02-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5085bd4d79c99c5244cacf3ffdcf278dca068bff3adf9df171ad3371f951681b"
+    },
+    {
+      "date": "2026-02-22",
+      "url": "https://hawes.com/2026/2026-02-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "06169ed2adbc88bddde3e2e78d1a2bed4972169940932fa48eeb497598abf222"
+    },
+    {
+      "date": "2026-03-01",
+      "url": "https://hawes.com/2026/2026-03-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b29bfcb0f06045089be4828838c9cd714017a8b0b5c5db5248bf26b59a605774"
+    },
+    {
+      "date": "2026-03-08",
+      "url": "https://hawes.com/2026/2026-03-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "830fa924524be3b2d68e599d95268142e5ce69e8219d6cedc1c87fa61416f2fd"
+    },
+    {
+      "date": "2026-03-15",
+      "url": "https://hawes.com/2026/2026-03-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "326ec85fcb0bb515906003a3ea9cd322cbdc9653327fd8054413ce2bad3f111c"
+    },
+    {
+      "date": "2026-03-22",
+      "url": "https://hawes.com/2026/2026-03-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "620d1ced3afd1c5541e5f8ad879758f1e5f88da0aebf106ec58513febdb0ebe6"
+    },
+    {
+      "date": "2026-03-29",
+      "url": "https://hawes.com/2026/2026-03-29.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c06caa554dcfa8c9659509a8c7363aba3c52f929ef6b42db4ede4eacfe96bb56"
+    },
+    {
+      "date": "2026-04-05",
+      "url": "https://hawes.com/2026/2026-04-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "ef73baec54cea292463621f73e97fc9221c81c66e06e7fdbcc90beecafdaa473"
+    },
+    {
+      "date": "2026-04-12",
+      "url": "https://hawes.com/2026/2026-04-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c6b7981d6ebef3e1c3abdef4a75d94210ad75b8ff01be4cb8fa050acacc33e12"
+    },
+    {
+      "date": "2026-04-19",
+      "url": "https://hawes.com/2026/2026-04-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "961a1467bf7dd09c092841a13b14d101100190f7e112177e5ad72b0fdf3c8664"
+    },
+    {
+      "date": "2026-04-26",
+      "url": "https://hawes.com/2026/2026-04-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "99cb8aba51457ab907dac3a884c67d25d054e1654c2b4c4ba074fd0e40454f64"
+    },
+    {
+      "date": "2026-05-03",
+      "url": "https://hawes.com/2026/2026-05-03.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a574977b700dff34f90b00f6e87e413ad5809404ac49cd996726249c31d237a8"
+    },
+    {
+      "date": "2026-05-10",
+      "url": "https://hawes.com/2026/2026-05-10.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "e1a844f500dd0a62bcfb50d860c6e2faf85968d34fa5cb2ff3215d0cb4a29904"
+    },
+    {
+      "date": "2026-05-17",
+      "url": "https://hawes.com/2026/2026-05-17.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "06b37133da001a9dfc02d4ccac0a7a8859ad90a44c3d7d00e7171f44195573d1"
+    },
+    {
+      "date": "2026-05-24",
+      "url": "https://hawes.com/2026/2026-05-24.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a4a85734d37592fd4a1c0f159c04e2a116f58f07f75f02eb2aef742712c2b889"
+    },
+    {
+      "date": "2026-05-31",
+      "url": "https://hawes.com/2026/2026-05-31.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "91234ddef034cfa3be1e58a24a6619c74ac6d3ed12f8cea1cef1fe049e5023b6"
+    },
+    {
+      "date": "2026-06-07",
+      "url": "https://hawes.com/2026/2026-06-07.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "72dd59dac6633e0cfb99df54412a7560398a01cd48d49455fb3562c8fa1631b4"
+    },
+    {
+      "date": "2026-06-14",
+      "url": "https://hawes.com/2026/2026-06-14.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "946d9a7a8a2eaec7c91ea725810703016d60163dae14eb4d4e72655eae958a47"
+    },
+    {
+      "date": "2026-06-21",
+      "url": "https://hawes.com/2026/2026-06-21.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d172a0ee583edb8a22e77cdca069ba0d8d1d42d6d938f41a53814d9994cf7b37"
+    },
+    {
+      "date": "2026-06-28",
+      "url": "https://hawes.com/2026/2026-06-28.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "f7e6f0153021b296d709ca4bf9a6b7015cd33fd739bbe3a6e80dbc4ffb16eff0"
+    },
+    {
+      "date": "2026-07-05",
+      "url": "https://hawes.com/2026/2026-07-05.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "fe4d14bdee2b0195407ff8f29c6228013c24a7856889a7733cdfb4199d1c7633"
+    },
+    {
+      "date": "2026-07-12",
+      "url": "https://hawes.com/2026/2026-07-12.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d916d02067d19e514fb511d037c7517588ef3165558671c60cca0ccd08b2f639"
+    },
+    {
+      "date": "2026-07-19",
+      "url": "https://hawes.com/2026/2026-07-19.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "656fdaf2e3435279301d2a2535592edc241345ec09d667f76bdded41964f69af"
+    },
+    {
+      "date": "2026-07-26",
+      "url": "https://hawes.com/2026/2026-07-26.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "d0828ac79b89fae54aea7101f7bcc9b1546328751e7d45fdb121cbe595588b3e"
+    },
+    {
+      "date": "2026-08-02",
+      "url": "https://hawes.com/2026/2026-08-02.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "019ce13d0865e45a31d4a5bf3c16faffea76352ae00ad2078ffbbbb954188b67"
+    },
+    {
+      "date": "2026-08-09",
+      "url": "https://hawes.com/2026/2026-08-09.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "0e1eb20e97397f0c347ecbc3c55f3ee0d79aa7cd873cbd1607fab1a81f5a24c9"
+    },
+    {
+      "date": "2026-08-16",
+      "url": "https://hawes.com/2026/2026-08-16.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "c9a9e93524dc8e67c47794f041fd2c0d6873d2e63012f5c6ea8ab75bf70ff101"
+    },
+    {
+      "date": "2026-08-23",
+      "url": "https://hawes.com/2026/2026-08-23.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "a0a3b96aef54274b19b5fc5f3e5536110e0b2fb7f9ea5c033836b1bcfa2df4e8"
+    },
+    {
+      "date": "2026-08-30",
+      "url": "https://hawes.com/2026/2026-08-30.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "7917a1bbbab5db9f2b30b08f298483a83fc690c71b683dcfd5e7cddd9bb3c7d2"
+    },
+    {
+      "date": "2026-09-06",
+      "url": "https://hawes.com/2026/2026-09-06.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "fddac85ec1979ff1f48239565902d8ab60650314fbe2b64684518a2c5c27f593"
+    },
+    {
+      "date": "2026-09-13",
+      "url": "https://hawes.com/2026/2026-09-13.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "038c70899d9e8fde3af7a196f0cb5138594a06447456127232fa152d3af66560"
+    },
+    {
+      "date": "2026-09-20",
+      "url": "https://hawes.com/2026/2026-09-20.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "6277c460dd44b71553f6b8f2aa1d4c02347bc02c29cd72e5d76b4c62831caa36"
+    },
+    {
+      "date": "2026-09-27",
+      "url": "https://hawes.com/2026/2026-09-27.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9ddf07cefc60195750ca73b18951e0f5df227a39faf5dea447e94662e445dd3a"
+    },
+    {
+      "date": "2026-10-04",
+      "url": "https://hawes.com/2026/2026-10-04.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "9568ee85839a277c0eba28982938709102f4d71348792399a593eaadd88ca2ea"
+    },
+    {
+      "date": "2026-10-11",
+      "url": "https://hawes.com/2026/2026-10-11.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "5b7f34c0d868972fe7414188281bd4a362e27fed44df16ab17b14d1b03d54c31"
+    },
+    {
+      "date": "2026-10-18",
+      "url": "https://hawes.com/2026/2026-10-18.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "1c189f0e69197b50df5b61a092c40f305aca3c8f198fc86242a17e2a2e39c926"
+    },
+    {
+      "date": "2026-10-25",
+      "url": "https://hawes.com/2026/2026-10-25.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "e22f45a645d349ef83840480f48c7e8d1babe8ade44535b01aec8827cc7334e4"
+    },
+    {
+      "date": "2026-11-01",
+      "url": "https://hawes.com/2026/2026-11-01.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "33876092212e469394d0cc26f7915a7334e7ac7aab72efa2dd2051c9b3bc3f86"
+    },
+    {
+      "date": "2026-11-08",
+      "url": "https://hawes.com/2026/2026-11-08.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "b17f58c4feb5d04c81393ea6a4e1e13808512dc67db4ed7e7f8e64c9a6f984ef"
+    },
+    {
+      "date": "2026-11-15",
+      "url": "https://hawes.com/2026/2026-11-15.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "befee78228b498f427e944f47509de3bf3659015d3643f0a0d7309dafb1e0d90"
+    },
+    {
+      "date": "2026-11-22",
+      "url": "https://hawes.com/2026/2026-11-22.pdf",
+      "status": "imported",
+      "rows": 30,
+      "sha256": "485575f5c9082efe68217bcd9849291ccf20f9070d3050bb747cccba8199e4a6"
+    }
+  ]
+}

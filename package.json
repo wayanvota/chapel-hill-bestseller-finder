@@ -1,0 +1,35 @@
+{
+  "name": "chapel-hill-bestseller-finder",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config vite.config.ts",
+    "build": "tsc --noEmit && vite build --config vite.config.ts && node scripts/prepare-sites-build.mjs",
+    "preview": "vite preview --config vite.config.ts",
+    "test:sites": "node --test tests/sites-worker.test.mjs",
+    "test": "node --test tests/app.test.ts && python3 -m unittest discover -s tests -p test_subject_enrichment.py",
+    "import:history": "python3 scripts/import-history.py && python3 scripts/classify-subjects.py",
+    "classify:subjects": "python3 scripts/build-description-subjects.py && python3 scripts/classify-subjects.py",
+    "enrich:subjects": "python3 scripts/enrich-subjects.py && python3 scripts/build-description-subjects.py && python3 scripts/classify-subjects.py",
+    "start": "node server/start.ts",
+    "test:production": "node --test tests/production.test.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "5.0.4",
+    "fast-xml-parser": "^5.12.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "vite": "6.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}

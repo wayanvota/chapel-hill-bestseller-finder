@@ -1,0 +1,2304 @@
+{
+  "spreadsheetId": "1ijQ1nwoD4zIZ3wmQc02JSrIfa7gawERW-U_pkOP1XMo",
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1ijQ1nwoD4zIZ3wmQc02JSrIfa7gawERW-U_pkOP1XMo/edit?ouid=107034050223228643080",
+  "properties": {
+    "title": "NYT History Bestsellers at Chapel Hill Public Library",
+    "locale": "en_US",
+    "timeZone": "America/Los_Angeles"
+  },
+  "sheets": [
+    {
+      "properties": {
+        "sheetId": 731828546,
+        "title": "Reading list",
+        "index": 0,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26,
+          "frozenRowCount": 1,
+          "rowGroupControlAfter": true,
+          "columnGroupControlAfter": true
+        }
+      },
+      "data": [
+        {
+          "rowData": [
+            {
+              "values": [
+                {
+                  "formattedValue": "Title · book description",
+                  "userEnteredValue": {
+                    "stringValue": "Title · book description"
+                  }
+                },
+                {
+                  "formattedValue": "Author",
+                  "userEnteredValue": {
+                    "stringValue": "Author"
+                  }
+                },
+                {
+                  "formattedValue": "Category",
+                  "userEnteredValue": {
+                    "stringValue": "Category"
+                  }
+                },
+                {
+                  "formattedValue": "Print copies · Nov 22, 2026",
+                  "userEnteredValue": {
+                    "stringValue": "Print copies · Nov 22, 2026"
+                  }
+                },
+                {
+                  "formattedValue": "Call number",
+                  "userEnteredValue": {
+                    "stringValue": "Call number"
+                  }
+                },
+                {
+                  "formattedValue": "NYT rank",
+                  "userEnteredValue": {
+                    "stringValue": "NYT rank"
+                  }
+                },
+                {
+                  "formattedValue": "NYT list date",
+                  "userEnteredValue": {
+                    "stringValue": "NYT list date"
+                  }
+                },
+                {
+                  "formattedValue": "NYT list source",
+                  "userEnteredValue": {
+                    "stringValue": "NYT list source"
+                  }
+                },
+                {
+                  "formattedValue": "Notes",
+                  "userEnteredValue": {
+                    "stringValue": "Notes"
+                  }
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Demon of Unrest",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1671864\",\"The Demon of Unrest\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1671864"
+                },
+                {
+                  "formattedValue": "Erik Larson",
+                  "userEnteredValue": {
+                    "stringValue": "Erik Larson"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "5",
+                  "userEnteredValue": {
+                    "numberValue": 5
+                  }
+                },
+                {
+                  "formattedValue": "973.711 Lars",
+                  "userEnteredValue": {
+                    "stringValue": "973.711 Lars"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "2024-05-19",
+                  "userEnteredValue": {
+                    "numberValue": 45431
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-05-19.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-05-19.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Fate of the Day",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1685476\",\"The Fate of the Day\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1685476"
+                },
+                {
+                  "formattedValue": "Rick Atkinson",
+                  "userEnteredValue": {
+                    "stringValue": "Rick Atkinson"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "973.3 Atki",
+                  "userEnteredValue": {
+                    "stringValue": "973.3 Atki"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "2025-05-18",
+                  "userEnteredValue": {
+                    "numberValue": 45795
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-05-18.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-05-18.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "American Struggle",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1693220\",\"American Struggle\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1693220"
+                },
+                {
+                  "formattedValue": "Jon Meacham",
+                  "userEnteredValue": {
+                    "stringValue": "Jon Meacham"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "306.2097 Amer",
+                  "userEnteredValue": {
+                    "stringValue": "306.2097 Amer"
+                  }
+                },
+                {
+                  "formattedValue": "3",
+                  "userEnteredValue": {
+                    "numberValue": 3
+                  }
+                },
+                {
+                  "formattedValue": "2026-03-08",
+                  "userEnteredValue": {
+                    "numberValue": 46089
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-03-08.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-03-08.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "An Unfinished Love Story",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1671863\",\"An Unfinished Love Story\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1671863"
+                },
+                {
+                  "formattedValue": "Doris Kearns Goodwin",
+                  "userEnteredValue": {
+                    "stringValue": "Doris Kearns Goodwin"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "5",
+                  "userEnteredValue": {
+                    "numberValue": 5
+                  }
+                },
+                {
+                  "formattedValue": "973.922 Good",
+                  "userEnteredValue": {
+                    "stringValue": "973.922 Good"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "2024-05-12",
+                  "userEnteredValue": {
+                    "numberValue": 45424
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-05-12.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-05-12.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Black AF History",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1664918\",\"Black AF History\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1664918"
+                },
+                {
+                  "formattedValue": "Michael Harriot",
+                  "userEnteredValue": {
+                    "stringValue": "Michael Harriot"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973.0496 Harr",
+                  "userEnteredValue": {
+                    "stringValue": "973.0496 Harr"
+                  }
+                },
+                {
+                  "formattedValue": "6",
+                  "userEnteredValue": {
+                    "numberValue": 6
+                  }
+                },
+                {
+                  "formattedValue": "2026-02-22",
+                  "userEnteredValue": {
+                    "numberValue": 46075
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-02-22.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-02-22.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Barn",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1680389\",\"The Barn\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1680389"
+                },
+                {
+                  "formattedValue": "Wright Thompson",
+                  "userEnteredValue": {
+                    "stringValue": "Wright Thompson"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "364.134 Thom",
+                  "userEnteredValue": {
+                    "stringValue": "364.134 Thom"
+                  }
+                },
+                {
+                  "formattedValue": "15",
+                  "userEnteredValue": {
+                    "numberValue": 15
+                  }
+                },
+                {
+                  "formattedValue": "2024-10-20",
+                  "userEnteredValue": {
+                    "numberValue": 45585
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-10-20.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-10-20.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Medgar and Myrlie",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1669870\",\"Medgar and Myrlie\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1669870"
+                },
+                {
+                  "formattedValue": "Joy-Ann Reid",
+                  "userEnteredValue": {
+                    "stringValue": "Joy-Ann Reid"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "323.092 Reid",
+                  "userEnteredValue": {
+                    "stringValue": "323.092 Reid"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "2024-02-25",
+                  "userEnteredValue": {
+                    "numberValue": 45347
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-02-25.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-02-25.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "King: A Life",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1663900\",\"King: A Life\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1663900"
+                },
+                {
+                  "formattedValue": "Jonathan Eig",
+                  "userEnteredValue": {
+                    "stringValue": "Jonathan Eig"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "3",
+                  "userEnteredValue": {
+                    "numberValue": 3
+                  }
+                },
+                {
+                  "formattedValue": "BIO King, M.L.",
+                  "userEnteredValue": {
+                    "stringValue": "BIO King, M.L."
+                  }
+                },
+                {
+                  "formattedValue": "14",
+                  "userEnteredValue": {
+                    "numberValue": 14
+                  }
+                },
+                {
+                  "formattedValue": "2024-02-04",
+                  "userEnteredValue": {
+                    "numberValue": 45326
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-02-04.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-02-04.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Prequel",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1667039\",\"Prequel\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1667039"
+                },
+                {
+                  "formattedValue": "Rachel Maddow",
+                  "userEnteredValue": {
+                    "stringValue": "Rachel Maddow"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "4",
+                  "userEnteredValue": {
+                    "numberValue": 4
+                  }
+                },
+                {
+                  "formattedValue": "320.533 Madd",
+                  "userEnteredValue": {
+                    "stringValue": "320.533 Madd"
+                  }
+                },
+                {
+                  "formattedValue": "3",
+                  "userEnteredValue": {
+                    "numberValue": 3
+                  }
+                },
+                {
+                  "formattedValue": "2023-11-26",
+                  "userEnteredValue": {
+                    "numberValue": 45256
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2023/2023-11-26.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2023/2023-11-26.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Situation Room",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1673064\",\"The Situation Room\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1673064"
+                },
+                {
+                  "formattedValue": "George Stephanopoulos with Lisa Dickey",
+                  "userEnteredValue": {
+                    "stringValue": "George Stephanopoulos with Lisa Dickey"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "973.099 Step",
+                  "userEnteredValue": {
+                    "stringValue": "973.099 Step"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "2024-06-02",
+                  "userEnteredValue": {
+                    "numberValue": 45445
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-06-02.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-06-02.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The JFK Conspiracy",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1683563\",\"The JFK Conspiracy\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1683563"
+                },
+                {
+                  "formattedValue": "Brad Meltzer and Josh Mensch",
+                  "userEnteredValue": {
+                    "stringValue": "Brad Meltzer and Josh Mensch"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973.922 Melt",
+                  "userEnteredValue": {
+                    "stringValue": "973.922 Melt"
+                  }
+                },
+                {
+                  "formattedValue": "3",
+                  "userEnteredValue": {
+                    "numberValue": 3
+                  }
+                },
+                {
+                  "formattedValue": "2025-02-02",
+                  "userEnteredValue": {
+                    "numberValue": 45690
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-02-02.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-02-02.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Countdown 1960",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1680952\",\"Countdown 1960\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1680952"
+                },
+                {
+                  "formattedValue": "Chris Wallace with Mitch Weiss",
+                  "userEnteredValue": {
+                    "stringValue": "Chris Wallace with Mitch Weiss"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973.922 Wall",
+                  "userEnteredValue": {
+                    "stringValue": "973.922 Wall"
+                  }
+                },
+                {
+                  "formattedValue": "11",
+                  "userEnteredValue": {
+                    "numberValue": 11
+                  }
+                },
+                {
+                  "formattedValue": "2024-10-27",
+                  "userEnteredValue": {
+                    "numberValue": 45592
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-10-27.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-10-27.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "When the Clock Broke",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1674188\",\"When the Clock Broke\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1674188"
+                },
+                {
+                  "formattedValue": "John Ganz",
+                  "userEnteredValue": {
+                    "stringValue": "John Ganz"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "320.5209 Ganz",
+                  "userEnteredValue": {
+                    "stringValue": "320.5209 Ganz"
+                  }
+                },
+                {
+                  "formattedValue": "14",
+                  "userEnteredValue": {
+                    "numberValue": 14
+                  }
+                },
+                {
+                  "formattedValue": "2024-07-07",
+                  "userEnteredValue": {
+                    "numberValue": 45480
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-07-07.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-07-07.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "To Rescue the Constitution",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1665866\",\"To Rescue the Constitution\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1665866"
+                },
+                {
+                  "formattedValue": "Bret Baier with Catherine Whitney",
+                  "userEnteredValue": {
+                    "stringValue": "Bret Baier with Catherine Whitney"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973.4109 Baie",
+                  "userEnteredValue": {
+                    "stringValue": "973.4109 Baie"
+                  }
+                },
+                {
+                  "formattedValue": "11",
+                  "userEnteredValue": {
+                    "numberValue": 11
+                  }
+                },
+                {
+                  "formattedValue": "2024-01-21",
+                  "userEnteredValue": {
+                    "numberValue": 45312
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-01-21.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-01-21.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Teddy and Booker T.",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1667082\",\"Teddy and Booker T.\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1667082"
+                },
+                {
+                  "formattedValue": "Brian Kilmeade",
+                  "userEnteredValue": {
+                    "stringValue": "Brian Kilmeade"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973.911 Kilm",
+                  "userEnteredValue": {
+                    "stringValue": "973.911 Kilm"
+                  }
+                },
+                {
+                  "formattedValue": "9",
+                  "userEnteredValue": {
+                    "numberValue": 9
+                  }
+                },
+                {
+                  "formattedValue": "2023-12-03",
+                  "userEnteredValue": {
+                    "numberValue": 45263
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2023/2023-12-03.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2023/2023-12-03.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Small and the Mighty",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1683050\",\"The Small and the Mighty\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1683050"
+                },
+                {
+                  "formattedValue": "Sharon McMahon",
+                  "userEnteredValue": {
+                    "stringValue": "Sharon McMahon"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "3",
+                  "userEnteredValue": {
+                    "numberValue": 3
+                  }
+                },
+                {
+                  "formattedValue": "920.073 McMa",
+                  "userEnteredValue": {
+                    "stringValue": "920.073 McMa"
+                  }
+                },
+                {
+                  "formattedValue": "10",
+                  "userEnteredValue": {
+                    "numberValue": 10
+                  }
+                },
+                {
+                  "formattedValue": "2025-01-05",
+                  "userEnteredValue": {
+                    "numberValue": 45662
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-01-05.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-01-05.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Confronting the Presidents",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1680410\",\"Confronting the Presidents\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1680410"
+                },
+                {
+                  "formattedValue": "Bill O’Reilly and Martin Dugard",
+                  "userEnteredValue": {
+                    "stringValue": "Bill O’Reilly and Martin Dugard"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973.099 ORei",
+                  "userEnteredValue": {
+                    "stringValue": "973.099 ORei"
+                  }
+                },
+                {
+                  "formattedValue": "7",
+                  "userEnteredValue": {
+                    "numberValue": 7
+                  }
+                },
+                {
+                  "formattedValue": "2025-01-19",
+                  "userEnteredValue": {
+                    "numberValue": 45676
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-01-19.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-01-19.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Killing the Witches",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1664997\",\"Killing the Witches\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1664997"
+                },
+                {
+                  "formattedValue": "Bill O’Reilly and Martin Dugard",
+                  "userEnteredValue": {
+                    "stringValue": "Bill O’Reilly and Martin Dugard"
+                  }
+                },
+                {
+                  "formattedValue": "American history and politics",
+                  "userEnteredValue": {
+                    "stringValue": "American history and politics"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "974.4502 ORei",
+                  "userEnteredValue": {
+                    "stringValue": "974.4502 ORei"
+                  }
+                },
+                {
+                  "formattedValue": "14",
+                  "userEnteredValue": {
+                    "numberValue": 14
+                  }
+                },
+                {
+                  "formattedValue": "2024-01-07",
+                  "userEnteredValue": {
+                    "numberValue": 45298
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-01-07.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-01-07.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "America, América",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1685433\",\"America, América\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1685433"
+                },
+                {
+                  "formattedValue": "Greg Grandin",
+                  "userEnteredValue": {
+                    "stringValue": "Greg Grandin"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "970 Gran",
+                  "userEnteredValue": {
+                    "stringValue": "970 Gran"
+                  }
+                },
+                {
+                  "formattedValue": "14",
+                  "userEnteredValue": {
+                    "numberValue": 14
+                  }
+                },
+                {
+                  "formattedValue": "2025-05-11",
+                  "userEnteredValue": {
+                    "numberValue": 45788
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-05-11.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-05-11.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Golden Road",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1685490\",\"The Golden Road\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1685490"
+                },
+                {
+                  "formattedValue": "William Dalrymple",
+                  "userEnteredValue": {
+                    "stringValue": "William Dalrymple"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "954 Dalr",
+                  "userEnteredValue": {
+                    "stringValue": "954 Dalr"
+                  }
+                },
+                {
+                  "formattedValue": "15",
+                  "userEnteredValue": {
+                    "numberValue": 15
+                  }
+                },
+                {
+                  "formattedValue": "2025-05-18",
+                  "userEnteredValue": {
+                    "numberValue": 45795
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-05-18.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-05-18.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Wide Wide Sea",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1672296\",\"The Wide Wide Sea\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1672296"
+                },
+                {
+                  "formattedValue": "Hampton Sides",
+                  "userEnteredValue": {
+                    "stringValue": "Hampton Sides"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "6",
+                  "userEnteredValue": {
+                    "numberValue": 6
+                  }
+                },
+                {
+                  "formattedValue": "910.92 Side",
+                  "userEnteredValue": {
+                    "stringValue": "910.92 Side"
+                  }
+                },
+                {
+                  "formattedValue": "4",
+                  "userEnteredValue": {
+                    "numberValue": 4
+                  }
+                },
+                {
+                  "formattedValue": "2024-05-12",
+                  "userEnteredValue": {
+                    "numberValue": 45424
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-05-12.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-05-12.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Wager",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1659437\",\"The Wager\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1659437"
+                },
+                {
+                  "formattedValue": "David Grann",
+                  "userEnteredValue": {
+                    "stringValue": "David Grann"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "4",
+                  "userEnteredValue": {
+                    "numberValue": 4
+                  }
+                },
+                {
+                  "formattedValue": "910.9164 Gran",
+                  "userEnteredValue": {
+                    "stringValue": "910.9164 Gran"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "2024-01-07",
+                  "userEnteredValue": {
+                    "numberValue": 45298
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-01-07.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-01-07.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Eastern Front",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1680181\",\"The Eastern Front\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1680181"
+                },
+                {
+                  "formattedValue": "Nick Lloyd",
+                  "userEnteredValue": {
+                    "stringValue": "Nick Lloyd"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "940.4147 Lloy",
+                  "userEnteredValue": {
+                    "stringValue": "940.4147 Lloy"
+                  }
+                },
+                {
+                  "formattedValue": "9",
+                  "userEnteredValue": {
+                    "numberValue": 9
+                  }
+                },
+                {
+                  "formattedValue": "2024-09-15",
+                  "userEnteredValue": {
+                    "numberValue": 45550
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-09-15.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-09-15.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "When the Sea Came Alive",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1674189\",\"When the Sea Came Alive\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1674189"
+                },
+                {
+                  "formattedValue": "Garrett M. Graff",
+                  "userEnteredValue": {
+                    "stringValue": "Garrett M. Graff"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "940.5421 Graf",
+                  "userEnteredValue": {
+                    "stringValue": "940.5421 Graf"
+                  }
+                },
+                {
+                  "formattedValue": "5",
+                  "userEnteredValue": {
+                    "numberValue": 5
+                  }
+                },
+                {
+                  "formattedValue": "2024-06-23",
+                  "userEnteredValue": {
+                    "numberValue": 45466
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-06-23.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-06-23.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Family of Spies",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1691171\",\"Family of Spies\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1691171"
+                },
+                {
+                  "formattedValue": "Christine Kuehn",
+                  "userEnteredValue": {
+                    "stringValue": "Christine Kuehn"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "5",
+                  "userEnteredValue": {
+                    "numberValue": 5
+                  }
+                },
+                {
+                  "formattedValue": "940.5487 Kueh",
+                  "userEnteredValue": {
+                    "stringValue": "940.5487 Kueh"
+                  }
+                },
+                {
+                  "formattedValue": "13",
+                  "userEnteredValue": {
+                    "numberValue": 13
+                  }
+                },
+                {
+                  "formattedValue": "2026-01-11",
+                  "userEnteredValue": {
+                    "numberValue": 46033
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-01-11.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-01-11.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Ghosts of Sicily",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1696453\",\"Ghosts of Sicily\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1696453"
+                },
+                {
+                  "formattedValue": "Mark Harmon and Leon Carroll Jr.",
+                  "userEnteredValue": {
+                    "stringValue": "Mark Harmon and Leon Carroll Jr."
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "940.5486 Harm",
+                  "userEnteredValue": {
+                    "stringValue": "940.5486 Harm"
+                  }
+                },
+                {
+                  "formattedValue": "8",
+                  "userEnteredValue": {
+                    "numberValue": 8
+                  }
+                },
+                {
+                  "formattedValue": "2026-05-03",
+                  "userEnteredValue": {
+                    "numberValue": 46145
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-05-03.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-05-03.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Ghosts of Honolulu",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1667098\",\"Ghosts of Honolulu\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1667098"
+                },
+                {
+                  "formattedValue": "Mark Harmon and Leon Carroll Jr.",
+                  "userEnteredValue": {
+                    "stringValue": "Mark Harmon and Leon Carroll Jr."
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "940.5426 Harm",
+                  "userEnteredValue": {
+                    "stringValue": "940.5426 Harm"
+                  }
+                },
+                {
+                  "formattedValue": "6",
+                  "userEnteredValue": {
+                    "numberValue": 6
+                  }
+                },
+                {
+                  "formattedValue": "2023-12-03",
+                  "userEnteredValue": {
+                    "numberValue": 45263
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2023/2023-12-03.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2023/2023-12-03.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Remember Us",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1685554\",\"Remember Us\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1685554"
+                },
+                {
+                  "formattedValue": "Robert M. Edsel",
+                  "userEnteredValue": {
+                    "stringValue": "Robert M. Edsel"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "940.53 Edse",
+                  "userEnteredValue": {
+                    "stringValue": "940.53 Edse"
+                  }
+                },
+                {
+                  "formattedValue": "14",
+                  "userEnteredValue": {
+                    "numberValue": 14
+                  }
+                },
+                {
+                  "formattedValue": "2025-06-15",
+                  "userEnteredValue": {
+                    "numberValue": 45823
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-06-15.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-06-15.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Mission",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1689416\",\"The Mission\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1689416"
+                },
+                {
+                  "formattedValue": "Tim Weiner",
+                  "userEnteredValue": {
+                    "stringValue": "Tim Weiner"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "327.1273 Wein",
+                  "userEnteredValue": {
+                    "stringValue": "327.1273 Wein"
+                  }
+                },
+                {
+                  "formattedValue": "3",
+                  "userEnteredValue": {
+                    "numberValue": 3
+                  }
+                },
+                {
+                  "formattedValue": "2025-08-03",
+                  "userEnteredValue": {
+                    "numberValue": 45872
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-08-03.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-08-03.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Confronting Evil",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1692088\",\"Confronting Evil\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1692088"
+                },
+                {
+                  "formattedValue": "Bill O’Reilly and Josh Hammer",
+                  "userEnteredValue": {
+                    "stringValue": "Bill O’Reilly and Josh Hammer"
+                  }
+                },
+                {
+                  "formattedValue": "World history, war, and espionage",
+                  "userEnteredValue": {
+                    "stringValue": "World history, war, and espionage"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "355 ORei",
+                  "userEnteredValue": {
+                    "stringValue": "355 ORei"
+                  }
+                },
+                {
+                  "formattedValue": "12",
+                  "userEnteredValue": {
+                    "numberValue": 12
+                  }
+                },
+                {
+                  "formattedValue": "2026-01-04",
+                  "userEnteredValue": {
+                    "numberValue": 46026
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-01-04.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-01-04.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Mark Twain",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1686639\",\"Mark Twain\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1686639"
+                },
+                {
+                  "formattedValue": "Ron Chernow",
+                  "userEnteredValue": {
+                    "stringValue": "Ron Chernow"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "BIO Twain",
+                  "userEnteredValue": {
+                    "stringValue": "BIO Twain"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "2025-06-01",
+                  "userEnteredValue": {
+                    "numberValue": 45809
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-06-01.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-06-01.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Baldwin: A Love Story",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1689530\",\"Baldwin: A Love Story\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1689530"
+                },
+                {
+                  "formattedValue": "Nicholas Boggs",
+                  "userEnteredValue": {
+                    "stringValue": "Nicholas Boggs"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "BIO Baldwin",
+                  "userEnteredValue": {
+                    "stringValue": "BIO Baldwin"
+                  }
+                },
+                {
+                  "formattedValue": "11",
+                  "userEnteredValue": {
+                    "numberValue": 11
+                  }
+                },
+                {
+                  "formattedValue": "2025-09-07",
+                  "userEnteredValue": {
+                    "numberValue": 45907
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-09-07.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-09-07.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "American Rambler",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1695155\",\"American Rambler\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1695155"
+                },
+                {
+                  "formattedValue": "Isaac Fitzgerald",
+                  "userEnteredValue": {
+                    "stringValue": "Isaac Fitzgerald"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "917.304 Fitz",
+                  "userEnteredValue": {
+                    "stringValue": "917.304 Fitz"
+                  }
+                },
+                {
+                  "formattedValue": "12",
+                  "userEnteredValue": {
+                    "numberValue": 12
+                  }
+                },
+                {
+                  "formattedValue": "2026-05-31",
+                  "userEnteredValue": {
+                    "numberValue": 46173
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-05-31.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-05-31.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "A Marriage at Sea",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1689407\",\"A Marriage at Sea\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1689407"
+                },
+                {
+                  "formattedValue": "Sophie Elmhirst",
+                  "userEnteredValue": {
+                    "stringValue": "Sophie Elmhirst"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "910.9164 Elmh",
+                  "userEnteredValue": {
+                    "stringValue": "910.9164 Elmh"
+                  }
+                },
+                {
+                  "formattedValue": "10",
+                  "userEnteredValue": {
+                    "numberValue": 10
+                  }
+                },
+                {
+                  "formattedValue": "2026-01-25",
+                  "userEnteredValue": {
+                    "numberValue": 46047
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-01-25.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-01-25.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Last Kings of Hollywood",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1696509\",\"The Last Kings of Hollywood\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1696509"
+                },
+                {
+                  "formattedValue": "Paul Fischer",
+                  "userEnteredValue": {
+                    "stringValue": "Paul Fischer"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "791.4302 Fisc",
+                  "userEnteredValue": {
+                    "stringValue": "791.4302 Fisc"
+                  }
+                },
+                {
+                  "formattedValue": "12",
+                  "userEnteredValue": {
+                    "numberValue": 12
+                  }
+                },
+                {
+                  "formattedValue": "2026-03-01",
+                  "userEnteredValue": {
+                    "numberValue": 46082
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2026/2026-03-01.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2026/2026-03-01.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "The Bookshop",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1680149\",\"The Bookshop\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1680149"
+                },
+                {
+                  "formattedValue": "Evan Friss",
+                  "userEnteredValue": {
+                    "stringValue": "Evan Friss"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "2",
+                  "userEnteredValue": {
+                    "numberValue": 2
+                  }
+                },
+                {
+                  "formattedValue": "381.45 Fris",
+                  "userEnteredValue": {
+                    "stringValue": "381.45 Fris"
+                  }
+                },
+                {
+                  "formattedValue": "9",
+                  "userEnteredValue": {
+                    "numberValue": 9
+                  }
+                },
+                {
+                  "formattedValue": "2024-08-25",
+                  "userEnteredValue": {
+                    "numberValue": 45529
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-08-25.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-08-25.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "When Women Ran Fifth Avenue",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1680002\",\"When Women Ran Fifth Avenue\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1680002"
+                },
+                {
+                  "formattedValue": "Julie Satow",
+                  "userEnteredValue": {
+                    "stringValue": "Julie Satow"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "381.141 Sato",
+                  "userEnteredValue": {
+                    "stringValue": "381.141 Sato"
+                  }
+                },
+                {
+                  "formattedValue": "9",
+                  "userEnteredValue": {
+                    "numberValue": 9
+                  }
+                },
+                {
+                  "formattedValue": "2024-06-23",
+                  "userEnteredValue": {
+                    "numberValue": 45466
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-06-23.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-06-23.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Madness",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1668712\",\"Madness\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1668712"
+                },
+                {
+                  "formattedValue": "Antonia Hylton",
+                  "userEnteredValue": {
+                    "stringValue": "Antonia Hylton"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "362.2109 Hylt",
+                  "userEnteredValue": {
+                    "stringValue": "362.2109 Hylt"
+                  }
+                },
+                {
+                  "formattedValue": "4",
+                  "userEnteredValue": {
+                    "numberValue": 4
+                  }
+                },
+                {
+                  "formattedValue": "2024-02-11",
+                  "userEnteredValue": {
+                    "numberValue": 45333
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-02-11.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-02-11.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "Challenger",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1674068\",\"Challenger\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1674068"
+                },
+                {
+                  "formattedValue": "Adam Higginbotham",
+                  "userEnteredValue": {
+                    "stringValue": "Adam Higginbotham"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "363.1246 Higg",
+                  "userEnteredValue": {
+                    "stringValue": "363.1246 Higg"
+                  }
+                },
+                {
+                  "formattedValue": "14",
+                  "userEnteredValue": {
+                    "numberValue": 14
+                  }
+                },
+                {
+                  "formattedValue": "2024-06-02",
+                  "userEnteredValue": {
+                    "numberValue": 45445
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2024/2024-06-02.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2024/2024-06-02.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "No More Tears",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1685964\",\"No More Tears\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1685964"
+                },
+                {
+                  "formattedValue": "Gardiner Harris",
+                  "userEnteredValue": {
+                    "stringValue": "Gardiner Harris"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "338.4761 Harr",
+                  "userEnteredValue": {
+                    "stringValue": "338.4761 Harr"
+                  }
+                },
+                {
+                  "formattedValue": "13",
+                  "userEnteredValue": {
+                    "numberValue": 13
+                  }
+                },
+                {
+                  "formattedValue": "2025-04-27",
+                  "userEnteredValue": {
+                    "numberValue": 45774
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-04-27.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-04-27.pdf"
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "SNAFU",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://chpl.bibliocommons.com/v2/record/S92C1688993\",\"SNAFU\")"
+                  },
+                  "hyperlink": "https://chpl.bibliocommons.com/v2/record/S92C1688993"
+                },
+                {
+                  "formattedValue": "Ed Helms",
+                  "userEnteredValue": {
+                    "stringValue": "Ed Helms"
+                  }
+                },
+                {
+                  "formattedValue": "Biography, culture, science, and business",
+                  "userEnteredValue": {
+                    "stringValue": "Biography, culture, science, and business"
+                  }
+                },
+                {
+                  "formattedValue": "1",
+                  "userEnteredValue": {
+                    "numberValue": 1
+                  }
+                },
+                {
+                  "formattedValue": "973 Helm",
+                  "userEnteredValue": {
+                    "stringValue": "973 Helm"
+                  }
+                },
+                {
+                  "formattedValue": "10",
+                  "userEnteredValue": {
+                    "numberValue": 10
+                  }
+                },
+                {
+                  "formattedValue": "2025-05-18",
+                  "userEnteredValue": {
+                    "numberValue": 45795
+                  }
+                },
+                {
+                  "formattedValue": "Weekly list",
+                  "userEnteredValue": {
+                    "formulaValue": "=HYPERLINK(\"https://hawes.com/2025/2025-05-18.pdf\",\"Weekly list\")"
+                  },
+                  "hyperlink": "https://hawes.com/2025/2025-05-18.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

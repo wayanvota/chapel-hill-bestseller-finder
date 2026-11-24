@@ -1,0 +1,5222 @@
+{
+  "archive-5dde7f266cad1c9dd224": {
+    "title": "THE WISH",
+    "author": "Nicholas Sparks",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL25292665W",
+        "matchedTerms": [
+          "FICTION / Romance / Contemporary"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL27087127W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL25292665W",
+        "title": "The Wish",
+        "authors": [
+          "Nicholas Sparks"
+        ]
+      },
+      {
+        "key": "/works/OL24320766W",
+        "title": "The Wish",
+        "authors": [
+          "Nicholas Sparks"
+        ]
+      },
+      {
+        "key": "/works/OL26426681W",
+        "title": "The Wish",
+        "authors": [
+          "Nicholas Sparks"
+        ]
+      },
+      {
+        "key": "/works/OL38437984W",
+        "title": "The Wish",
+        "authors": [
+          "Nicholas Sparks"
+        ]
+      },
+      {
+        "key": "/works/OL27087127W",
+        "title": "Wish",
+        "authors": [
+          "Nicholas Sparks"
+        ]
+      },
+      {
+        "key": "/works/OL25315734W",
+        "title": "The wish",
+        "authors": [
+          "Nicholas Sparks"
+        ]
+      }
+    ]
+  },
+  "archive-8552463064844f18670f": {
+    "title": "CLOUD CUCKOO LAND",
+    "author": "Anthony Doerr",
+    "subjects": [
+      "Historical Fiction",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL24164954W",
+        "matchedTerms": [
+          "Fiction, historical, medieval"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL24164954W",
+        "matchedTerms": [
+          "Fiction, science fiction, general",
+          "Space"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24164954W",
+        "title": "Cloud Cuckoo Land",
+        "authors": [
+          "Anthony Doerr"
+        ]
+      }
+    ]
+  },
+  "archive-13fa9dc0524c99adbd84": {
+    "title": "THE DAWN OF EVERYTHING",
+    "author": "David Graeber and David Wengrow",
+    "subjects": [
+      "History",
+      "Personal Growth & Relationships",
+      "Science & Nature"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL24663287W",
+        "matchedTerms": [
+          "Anthropology",
+          "Archaeology / Anthropology",
+          "Civilization",
+          "Civilization, history",
+          "HISTORY, ANCIENT",
+          "History"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL24663287W",
+        "matchedTerms": [
+          "Philosophy"
+        ]
+      },
+      "Science & Nature": {
+        "sourceUrl": "https://openlibrary.org/works/OL24663287W",
+        "matchedTerms": [
+          "Anthropology",
+          "Archaeology / Anthropology"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24663287W",
+        "title": "The Dawn of Everything",
+        "authors": [
+          "David Graeber",
+          "David Wengrow"
+        ]
+      }
+    ]
+  },
+  "archive-d2b85716c96a89149faa": {
+    "title": "WISH YOU WERE HERE",
+    "author": "Jodi Picoult",
+    "subjects": [
+      "Family & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL24503616W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24503616W",
+        "title": "Wish You Were Here",
+        "authors": [
+          "Jodi Picoult"
+        ]
+      }
+    ]
+  },
+  "archive-b9144b81fa0bcc2f3922": {
+    "title": "PROJECT HAIL MARY",
+    "author": "Andy Weir",
+    "subjects": [
+      "Adventure & Survival",
+      "Mystery & Suspense",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL21745884W",
+        "matchedTerms": [
+          "Astronautes",
+          "Astronauts",
+          "FICTION / Science Fiction / Action & Adventure",
+          "FICTION / Science Fiction / Hard Science Fiction",
+          "Fiction, science fiction, action & adventure",
+          "Fiction, science fiction, hard science fiction",
+          "Space flight",
+          "hard sci-fi",
+          "hard science-fiction",
+          "sci-fi",
+          "science-fiction"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL21745884W",
+        "matchedTerms": [
+          "FICTION / Science Fiction / Action & Adventure",
+          "Fiction, science fiction, action & adventure",
+          "Survival",
+          "Survival after airplane accidents, shipwrecks"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL21745884W",
+        "matchedTerms": [
+          "FICTION / Thrillers / Suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL21745884W",
+        "title": "Project Hail Mary",
+        "authors": [
+          "Andy Weir"
+        ]
+      }
+    ]
+  },
+  "archive-5924f197e9f3944e57fe": {
+    "title": "BEAUTIFUL WORLD, WHERE ARE YOU",
+    "author": "Sally Rooney",
+    "subjects": [
+      "Family & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL24151602W",
+        "matchedTerms": [
+          "Friendship, fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24151602W",
+        "title": "Beautiful World, Where Are You",
+        "authors": [
+          "Sally Rooney",
+          "Octavi Gil Pujol"
+        ]
+      }
+    ]
+  },
+  "archive-2e642317c870ef85d2c8": {
+    "title": "RECKLESS GIRLS",
+    "author": "Rachel Hawkins",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL34062579W",
+        "matchedTerms": [
+          "Missing persons, fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24493833W",
+        "title": "Reckless Girls",
+        "authors": [
+          "Rachel Hawkins"
+        ]
+      },
+      {
+        "key": "/works/OL34062579W",
+        "title": "Reckless Girls",
+        "authors": [
+          "Rachel Hawkins"
+        ]
+      }
+    ]
+  },
+  "archive-3e06d98ae26e9f45c099": {
+    "title": "THE SCHOOL FOR GOOD MOTHERS",
+    "author": "Jessamine Chan",
+    "subjects": [
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL25471394W",
+        "matchedTerms": [
+          "Dystopias",
+          "GSAFD: Science Fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL25471394W",
+        "title": "School for Good Mothers",
+        "authors": [
+          "Jessamine Chan"
+        ]
+      }
+    ]
+  },
+  "archive-d3430b2e4852302a30a2": {
+    "title": "HOW CIVIL WARS START",
+    "author": "Barbara F. Walter",
+    "subjects": [
+      "History",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL24781299W",
+        "matchedTerms": [
+          "HISTORY / Wars & Conflicts / General",
+          "civil war"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL24781299W",
+        "matchedTerms": [
+          "POLITICAL SCIENCE / Political Ideologies / Democracy",
+          "SOCIAL SCIENCE / Violence in Society",
+          "democratization"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24781299W",
+        "title": "How Civil Wars Start",
+        "authors": [
+          "Barbara F. Walter"
+        ]
+      },
+      {
+        "key": "/works/OL26434253W",
+        "title": "How Civil Wars Start",
+        "authors": [
+          "Barbara F. Walter"
+        ]
+      }
+    ]
+  },
+  "archive-6d9e5e97a1665286b89a": {
+    "title": "HOUSE OF SKY AND BREATH",
+    "author": "Sarah J. Maas",
+    "subjects": [
+      "Adventure & Survival",
+      "Family & Relationships",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL21101115W",
+        "matchedTerms": [
+          "FICTION / Fantasy / Action & Adventure",
+          "FICTION / Fantasy / Romance",
+          "FICTION / Fantasy / Urban",
+          "Fairies",
+          "Fiction, fantasy, action & adventure",
+          "Fiction, fantasy, epic",
+          "Fiction, fantasy, paranormal",
+          "Fiction, fantasy, romance",
+          "Fiction, fantasy, urban",
+          "Geographical myths",
+          "Magic"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL21101115W",
+        "matchedTerms": [
+          "Friendship"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL21101115W",
+        "matchedTerms": [
+          "FICTION / Fantasy / Romance",
+          "Fiction, fantasy, romance"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL21101115W",
+        "matchedTerms": [
+          "FICTION / Fantasy / Action & Adventure",
+          "Fiction, fantasy, action & adventure"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL21101115W",
+        "matchedTerms": [
+          "Fiction, science fiction, apocalyptic & post-apocalyptic"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL21101115W",
+        "title": "House of Sky and Breath",
+        "authors": [
+          "Sarah J. Maas"
+        ]
+      }
+    ]
+  },
+  "archive-ddda9511aed521989e81": {
+    "title": "SIERRA SIX",
+    "author": "Mark Greaney",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL28890030W",
+        "matchedTerms": [
+          "Fiction, thrillers, espionage",
+          "Fiction, thrillers, terrorism"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24531288W",
+        "title": "Sierra Six",
+        "authors": [
+          "Mark Greaney"
+        ]
+      },
+      {
+        "key": "/works/OL28890030W",
+        "title": "Sierra Six",
+        "authors": [
+          "Mark Greaney"
+        ]
+      }
+    ]
+  },
+  "archive-67a17189a4f0370c37fe": {
+    "title": "DAWNSHARD",
+    "author": "Brandon Sanderson",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL24139894W",
+        "matchedTerms": [
+          "Fiction, fantasy, epic",
+          "Fiction, fantasy, military"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24139894W",
+        "title": "Dawnshard",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      }
+    ]
+  },
+  "archive-851422b7fa9322567e32": {
+    "title": "HIGH STAKES",
+    "author": "Danielle Steel",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL25454698W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL25454698W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL25454698W",
+        "title": "High Stakes",
+        "authors": [
+          "Danielle Steel"
+        ]
+      }
+    ]
+  },
+  "archive-8e1e96086664d6cd5820": {
+    "title": "BITTERSWEET",
+    "author": "Susan Cain",
+    "subjects": [
+      "Health & Psychology"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Health & Psychology": {
+        "sourceUrl": "https://openlibrary.org/works/OL35781818W",
+        "matchedTerms": [
+          "Grief"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL25306867W",
+        "title": "Bittersweet",
+        "authors": [
+          "Susan Cain"
+        ]
+      },
+      {
+        "key": "/works/OL35781818W",
+        "title": "Bittersweet",
+        "authors": [
+          "Susan Cain"
+        ]
+      }
+    ]
+  },
+  "archive-d357a613c1da854a1649": {
+    "title": "LOVE THAT STORY",
+    "author": "Jonathan Van Ness",
+    "subjects": [
+      "Essays"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Essays": {
+        "sourceUrl": "https://openlibrary.org/works/OL27084931W",
+        "matchedTerms": [
+          "LGBTQ essays"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27084931W",
+        "title": "Love That Story",
+        "authors": [
+          "Jonathan Van Ness"
+        ]
+      }
+    ]
+  },
+  "archive-ffd37295d389f9a076e2": {
+    "title": "THE PALACE PAPERS",
+    "author": "Tina Brown",
+    "subjects": [
+      "Biography & Memoir",
+      "History"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL26355405W",
+        "matchedTerms": [
+          "BIOGRAPHY & AUTOBIOGRAPHY",
+          "Biography"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL26355405W",
+        "matchedTerms": [
+          "Great britain, history, 20th century",
+          "Great britain, history, 21st century"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26355405W",
+        "title": "Palace Papers",
+        "authors": [
+          "Tina Brown"
+        ]
+      }
+    ]
+  },
+  "archive-22e6785537d66aceba0d": {
+    "title": "STAR WARS: BROTHERHOOD",
+    "author": "Mike Chen",
+    "subjects": [
+      "Adventure & Survival",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL26428114W",
+        "matchedTerms": [
+          "Fiction, science fiction, action & adventure",
+          "Fiction, science fiction, space opera"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL26428114W",
+        "matchedTerms": [
+          "Fiction, science fiction, action & adventure"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26428114W",
+        "title": "Star Wars - Brotherhood",
+        "authors": [
+          "Mike Chen"
+        ]
+      }
+    ]
+  },
+  "archive-9069cdc36fca491dab91": {
+    "title": "NIGHTWORK",
+    "author": "Nora Roberts",
+    "subjects": [
+      "Mystery & Suspense",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL28425206W",
+        "matchedTerms": [
+          "Fiction, romance, suspense"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL28425206W",
+        "matchedTerms": [
+          "Fiction, romance, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26003625W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL24837582W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL27042886W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL28888062W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL27700430W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts",
+          "Will Damron"
+        ]
+      },
+      {
+        "key": "/works/OL28019902W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL28425206W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL37612042W",
+        "title": "Nightwork",
+        "authors": [
+          "Nora Roberts"
+        ]
+      }
+    ]
+  },
+  "archive-76f0d81e682ac35f3c8a": {
+    "title": "NIGHTCRAWLING",
+    "author": "Leila Mottley",
+    "subjects": [
+      "Literary Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL25516127W",
+        "matchedTerms": [
+          "FICTION / Literary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL25516127W",
+        "title": "Nightcrawling",
+        "authors": [
+          "Leila Mottley"
+        ]
+      }
+    ]
+  },
+  "archive-3609b5d3685c7d3c9d7a": {
+    "title": "THE HOTEL NANTUCKET",
+    "author": "Elin Hilderbrand",
+    "subjects": [
+      "Family & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL26602210W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26602210W",
+        "title": "Hotel Nantucket",
+        "authors": [
+          "Elin Hilderbrand"
+        ]
+      }
+    ]
+  },
+  "archive-0b7b24981ee1b0e56be6": {
+    "title": "THE END OF THE WORLD IS JUST THE BEGINNING",
+    "author": "Peter Zeihan",
+    "subjects": [
+      "Business & Technology",
+      "History",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Business & Technology": {
+        "sourceUrl": "https://openlibrary.org/works/OL26510694W",
+        "matchedTerms": [
+          "Economic development",
+          "economics"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL26510694W",
+        "matchedTerms": [
+          "Geopolitics",
+          "Zeihan on Geopolitics"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL26510694W",
+        "matchedTerms": [
+          "Industrielle Revolution"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26510694W",
+        "title": "End of the World Is Just the Beginning",
+        "authors": [
+          "Peter Zeihan"
+        ]
+      }
+    ]
+  },
+  "archive-4b79bd9d69d6ca03034a": {
+    "title": "THE LAST WHITE MAN",
+    "author": "Mohsin Hamid",
+    "subjects": [
+      "Literary Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL26084239W",
+        "matchedTerms": [
+          "FICTION / Literary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26084239W",
+        "title": "The Last White Man",
+        "authors": [
+          "Mohsin Hamid"
+        ]
+      }
+    ]
+  },
+  "archive-20900b5175f2db6c5e44": {
+    "title": "KILLERS OF A CERTAIN AGE",
+    "author": "Deanna Raybourn",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL27021614W",
+        "matchedTerms": [
+          "Fiction, mystery & detective, cozy, general",
+          "Fiction, thrillers, crime"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27021614W",
+        "title": "Killers of a Certain Age",
+        "authors": [
+          "Deanna Raybourn"
+        ]
+      }
+    ]
+  },
+  "archive-39fd273a8ee52a9518ea": {
+    "title": "NONA THE NINTH",
+    "author": "Tamsyn Muir",
+    "subjects": [
+      "Fantasy",
+      "Horror",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL26426935W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fiction, fantasy, epic"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL26426935W",
+        "matchedTerms": [
+          "Fiction, science fiction, space opera",
+          "Science fiction"
+        ]
+      },
+      "Horror": {
+        "sourceUrl": "https://openlibrary.org/works/OL26426935W",
+        "matchedTerms": [
+          "Horror"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26426935W",
+        "title": "Nona the Ninth",
+        "authors": [
+          "Tamsyn Muir"
+        ]
+      }
+    ]
+  },
+  "archive-ddcae8f72e42f3eec7d6": {
+    "title": "BLOWBACK",
+    "author": "James Patterson and Brendan DuBois",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL27088804W",
+        "matchedTerms": [
+          "Fiction, thrillers, crime",
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27088804W",
+        "title": "Blowback",
+        "authors": [
+          "James Patterson",
+          "Brendan DuBois"
+        ]
+      }
+    ]
+  },
+  "archive-edce9cc73156cee01f87": {
+    "title": "PROFILES IN IGNORANCE",
+    "author": "Andy Borowitz",
+    "subjects": [
+      "Arts & Culture",
+      "History",
+      "Humor",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL27807480W",
+        "matchedTerms": [
+          "Humor, topic, politics",
+          "Politicians, united states",
+          "United states, politics and government"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL27807480W",
+        "matchedTerms": [
+          "United states, history, 1969-"
+        ]
+      },
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL27807480W",
+        "matchedTerms": [
+          "Humor, topic, politics"
+        ]
+      },
+      "Humor": {
+        "sourceUrl": "https://openlibrary.org/works/OL27807480W",
+        "matchedTerms": [
+          "Humor, topic, politics"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27807480W",
+        "title": "Profiles in Ignorance",
+        "authors": [
+          "Andy Borowitz"
+        ]
+      }
+    ]
+  },
+  "archive-f3285751de2759b21b96": {
+    "title": "THE GOLDEN ENCLAVES",
+    "author": "Naomi Novik",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL26431106W",
+        "matchedTerms": [
+          "Fiction, fantasy, contemporary",
+          "Fiction, fantasy, epic"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26431106W",
+        "title": "The Golden Enclaves",
+        "authors": [
+          "Naomi Novik"
+        ]
+      }
+    ]
+  },
+  "archive-d8ccbbca123287644330": {
+    "title": "RIGHTEOUS PREY",
+    "author": "John Sandford",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL27030914W",
+        "matchedTerms": [
+          "Fiction, crime",
+          "Fiction, mystery & detective, general",
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27030914W",
+        "title": "Righteous Prey",
+        "authors": [
+          "John Sandford",
+          "John Sandford",
+          "Richard Ferrone"
+        ]
+      },
+      {
+        "key": "/works/OL45586788W",
+        "title": "Righteous Prey",
+        "authors": [
+          "John Sandford"
+        ]
+      }
+    ]
+  },
+  "archive-2750063c772e70fd4362": {
+    "title": "IF YOU WANT SOMETHING DONE",
+    "author": "Nikki R. Haley",
+    "subjects": [
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL27853278W",
+        "matchedTerms": [
+          "Political activity"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27853278W",
+        "title": "If You Want Something Done",
+        "authors": [
+          "Nikki R. Haley"
+        ]
+      }
+    ]
+  },
+  "archive-50d27fd20335a4c4aced": {
+    "title": "THE HIGH NOTES",
+    "author": "Danielle Steel",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL27557889W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL27557889W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27557889W",
+        "title": "High Notes",
+        "authors": [
+          "Danielle Steel"
+        ]
+      }
+    ]
+  },
+  "archive-e26b6df4d5061f2b46ae": {
+    "title": "DISTANT THUNDER",
+    "author": "Stuart Woods",
+    "subjects": [
+      "Adventure & Survival",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL31007492W",
+        "matchedTerms": [
+          "Fiction, thrillers, suspense"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL31007492W",
+        "matchedTerms": [
+          "Fiction, action & adventure"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27529153W",
+        "title": "Distant Thunder",
+        "authors": [
+          "Stuart Woods"
+        ]
+      },
+      {
+        "key": "/works/OL31007492W",
+        "title": "Distant Thunder",
+        "authors": [
+          "Stuart Woods"
+        ]
+      },
+      {
+        "key": "/works/OL28943125W",
+        "title": "Distant Thunder",
+        "authors": [
+          "Stuart Woods",
+          "Tony Roberts"
+        ]
+      },
+      {
+        "key": "/works/OL35727724W",
+        "title": "Distant Thunder",
+        "authors": [
+          "Stuart Woods"
+        ]
+      }
+    ]
+  },
+  "archive-1fdc184ecd97e189a61a": {
+    "title": "DOWN AND OUT IN PARADISE",
+    "author": "Charles Leerhsen",
+    "subjects": [
+      "Arts & Culture",
+      "Biography & Memoir"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL26663329W",
+        "matchedTerms": [
+          "Cooks, biography"
+        ]
+      },
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL26663329W",
+        "matchedTerms": [
+          "Television personalities"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26663329W",
+        "title": "Down and Out in Paradise",
+        "authors": [
+          "Charles Leerhsen"
+        ]
+      }
+    ]
+  },
+  "archive-fc2b28bbb2a775e9010a": {
+    "title": "REVENGE",
+    "author": "Michael Cohen",
+    "subjects": [
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL31128367W",
+        "matchedTerms": [
+          "United states, politics and government, 2017-2021"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL31128367W",
+        "title": "Revenge",
+        "authors": [
+          "Michael Cohen"
+        ]
+      },
+      {
+        "key": "/works/OL45027007W",
+        "title": "Revenge",
+        "authors": [
+          "Michael Cohen"
+        ]
+      }
+    ]
+  },
+  "archive-ea0da715cb325292dd7c": {
+    "title": "THE BIG BANG THEORY",
+    "author": "Jessica Radloff",
+    "subjects": [
+      "Arts & Culture"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL27302184W",
+        "matchedTerms": [
+          "Television comedies"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27302184W",
+        "title": "The Big Bang Theory",
+        "authors": [
+          "Jessica Radloff"
+        ]
+      }
+    ]
+  },
+  "archive-2a8b813925d74249bdb7": {
+    "title": "DEMON COPPERHEAD",
+    "author": "Barbara Kingsolver",
+    "subjects": [
+      "Literary Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL27052926W",
+        "matchedTerms": [
+          "literary fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27052926W",
+        "title": "Demon Copperhead",
+        "authors": [
+          "Barbara Kingsolver"
+        ]
+      }
+    ]
+  },
+  "archive-c1ceed60fcd8581c062c": {
+    "title": "THE LOST METAL",
+    "author": "Brandon Sanderson",
+    "subjects": [
+      "Adventure & Survival",
+      "Fantasy",
+      "Historical Fiction",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL26769924W",
+        "matchedTerms": [
+          "Fiction, fantasy, action & adventure",
+          "Fiction, fantasy, epic",
+          "Fiction, fantasy, historical"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL26769924W",
+        "matchedTerms": [
+          "Fiction, science fiction, general"
+        ]
+      },
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL26769924W",
+        "matchedTerms": [
+          "Fiction, fantasy, historical"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL26769924W",
+        "matchedTerms": [
+          "Fiction, fantasy, action & adventure"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26769924W",
+        "title": "The Lost Metal",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      }
+    ]
+  },
+  "archive-c1743260b7eca573108c": {
+    "title": "STELLA MARIS",
+    "author": "Cormac McCarthy",
+    "subjects": [
+      "Family & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL28018177W",
+        "matchedTerms": [
+          "Fiction, family life, siblings"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28018177W",
+        "title": "Stella Maris",
+        "authors": [
+          "Cormac McCarthy"
+        ]
+      }
+    ]
+  },
+  "archive-a69ff1578cae7788407a": {
+    "title": "THE HOUSE IN THE PINES",
+    "author": "Ana Reyes",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL27774874W",
+        "matchedTerms": [
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27774874W",
+        "title": "The House in the Pines",
+        "authors": [
+          "Ana Reyes"
+        ]
+      }
+    ]
+  },
+  "archive-2940ee2e762f5419dd53": {
+    "title": "WITHOUT A TRACE",
+    "author": "Danielle Steel",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL27855310W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL27855310W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27855310W",
+        "title": "Without a Trace",
+        "authors": [
+          "Danielle Steel"
+        ]
+      }
+    ]
+  },
+  "archive-a79cc26a44ef61ae0ec2": {
+    "title": "MYTH AMERICA",
+    "author": "Kevin M. Kruse and Julian E. Zelizer",
+    "subjects": [
+      "History"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL27699194W",
+        "matchedTerms": [
+          "United states, history"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27699194W",
+        "title": "Myth America",
+        "authors": [
+          "Kevin M. Kruse",
+          "Julian E. Zelizer"
+        ]
+      }
+    ]
+  },
+  "archive-260930dcad5976f77958": {
+    "title": "HELL BENT",
+    "author": "Leigh Bardugo",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL27852012W",
+        "matchedTerms": [
+          "Fiction, fantasy, contemporary",
+          "Fiction, fantasy, paranormal",
+          "Fiction, occult & supernatural",
+          "Fiction, thrillers, supernatural"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27852012W",
+        "title": "Hell Bent",
+        "authors": [
+          "Leigh Bardugo"
+        ]
+      }
+    ]
+  },
+  "archive-538377e2c71ea236fcec": {
+    "title": "SOMEONE ELSE'S SHOES",
+    "author": "Jojo Moyes",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL28627483W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary",
+          "Fiction, romance, general"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL28627483W",
+        "matchedTerms": [
+          "Fiction, friendship"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28627483W",
+        "title": "Someone Else's Shoes",
+        "authors": [
+          "Jojo Moyes"
+        ]
+      }
+    ]
+  },
+  "archive-6dc52f1c016c1f87d7b3": {
+    "title": "THE LAST ORPHAN",
+    "author": "Gregg Hurwitz",
+    "subjects": [
+      "Adventure & Survival",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL29332371W",
+        "matchedTerms": [
+          "Fiction, action & adventure"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL29332371W",
+        "matchedTerms": [
+          "Fiction, thrillers, espionage"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL29332371W",
+        "title": "Last Orphan",
+        "authors": [
+          "Gregg Hurwitz"
+        ]
+      },
+      {
+        "key": "/works/OL45601535W",
+        "title": "The Last Orphan",
+        "authors": [
+          "GREGG HURWITZ"
+        ]
+      }
+    ]
+  },
+  "archive-12b32aef9c243ea98855": {
+    "title": "WALK THE BLUE LINE",
+    "author": "James Patterson and Matt Eversmann with Chris Mooney",
+    "subjects": [
+      "Biography & Memoir",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL37612331W",
+        "matchedTerms": [
+          "Law enforcement officers, biography",
+          "Police, biography"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL37612331W",
+        "matchedTerms": [
+          "Local government, united states"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37612331W",
+        "title": "Walk the Blue Line",
+        "authors": [
+          "James Patterson",
+          "Eversmann, Matt",
+          "Chris Mooney - undifferentiated"
+        ]
+      }
+    ]
+  },
+  "archive-f8122566f9356261b833": {
+    "title": "BURNER",
+    "author": "Mark Greaney",
+    "subjects": [
+      "Adventure & Survival",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL27970854W",
+        "matchedTerms": [
+          "Fiction, action & adventure"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL27970854W",
+        "matchedTerms": [
+          "Fiction, thrillers, espionage"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27970854W",
+        "title": "Burner",
+        "authors": [
+          "Mark Greaney"
+        ]
+      }
+    ]
+  },
+  "archive-188463b9b8abb2fa33eb": {
+    "title": "FOLLOW ME TO HELL",
+    "author": "Tom Clavin",
+    "subjects": [
+      "Biography & Memoir",
+      "History"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL27893086W",
+        "matchedTerms": [
+          "Police, biography"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL27893086W",
+        "matchedTerms": [
+          "Texas, history"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27893086W",
+        "title": "Follow Me to Hell",
+        "authors": [
+          "Tom Clavin"
+        ]
+      }
+    ]
+  },
+  "archive-eb11f5a0ee1ad0c071ff": {
+    "title": "DARK ANGEL",
+    "author": "John Sandford",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL39131666W",
+        "matchedTerms": [
+          "Fiction, crime",
+          "Fiction, mystery & detective, general",
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34113530W",
+        "title": "Dark Angel",
+        "authors": [
+          "John Sandford"
+        ]
+      },
+      {
+        "key": "/works/OL29235961W",
+        "title": "Dark Angel",
+        "authors": [
+          "John Sandford"
+        ]
+      },
+      {
+        "key": "/works/OL39131666W",
+        "title": "Dark Angel",
+        "authors": [
+          "John Sandford"
+        ]
+      }
+    ]
+  },
+  "archive-f5b32c6fb9adb79cb82c": {
+    "title": "ON THE ORIGIN OF TIME",
+    "author": "Thomas Hertog",
+    "subjects": [
+      "Science & Nature"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science & Nature": {
+        "sourceUrl": "https://openlibrary.org/works/OL34536622W",
+        "matchedTerms": [
+          "cosmology",
+          "mathematics",
+          "quantum cosmology",
+          "quantum physics"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34536622W",
+        "title": "On the Origin of Time",
+        "authors": [
+          "Thomas Hertog"
+        ]
+      },
+      {
+        "key": "/works/OL27170885W",
+        "title": "On the Origin of Time",
+        "authors": [
+          "Thomas Hertog"
+        ]
+      }
+    ]
+  },
+  "archive-104ced3396d17c261b2a": {
+    "title": "NIGHT ANGEL NEMESIS",
+    "author": "Brent Weeks",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL28347043W",
+        "matchedTerms": [
+          "Fiction, fantasy, epic"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28347043W",
+        "title": "Night Angel Nemesis",
+        "authors": [
+          "Brent Weeks"
+        ]
+      }
+    ]
+  },
+  "archive-22e60c10b3f3cf9b8232": {
+    "title": "PROJECT 562",
+    "author": "Matika Wilbur",
+    "subjects": [
+      "History"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL26822726W",
+        "matchedTerms": [
+          "United states, history"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26822726W",
+        "title": "Project 562",
+        "authors": [
+          "Matika Wilbur"
+        ]
+      }
+    ]
+  },
+  "archive-4a18e6ad6ff0102818ab": {
+    "title": "THE FERRYMAN",
+    "author": "Justin Cronin",
+    "subjects": [
+      "Mystery & Suspense",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL28163004W",
+        "matchedTerms": [
+          "Fiction, dystopian",
+          "Fiction, science fiction, apocalyptic & post-apocalyptic"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL28163004W",
+        "matchedTerms": [
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28163004W",
+        "title": "Ferryman",
+        "authors": [
+          "Justin Cronin"
+        ]
+      }
+    ]
+  },
+  "archive-fec66e2140fc853a93e6": {
+    "title": "QUEEN CHARLOTTE",
+    "author": "Julia Quinn and Shonda Rhimes",
+    "subjects": [
+      "Historical Fiction",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL35717627W",
+        "matchedTerms": [
+          "Fiction, romance, historical, regency",
+          "Fiction, romance, romantic comedy"
+        ]
+      },
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL35717627W",
+        "matchedTerms": [
+          "Fiction, romance, historical, regency"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL35717627W",
+        "title": "Queen Charlotte",
+        "authors": [
+          "Julia Quinn",
+          "Shonda Rhimes"
+        ]
+      }
+    ]
+  },
+  "archive-37678c9ebcee60e240a7": {
+    "title": "THE FORGOTTEN GIRLS",
+    "author": "Monica Potts",
+    "subjects": [
+      "Arts & Culture",
+      "Biography & Memoir"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL28746177W",
+        "matchedTerms": [
+          "Literature"
+        ]
+      },
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL28746177W",
+        "matchedTerms": [
+          "Autobiography and memoir"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28746177W",
+        "title": "Forgotten Girls",
+        "authors": [
+          "Monica Potts"
+        ]
+      }
+    ]
+  },
+  "archive-53920753e8584d21415c": {
+    "title": "HELLO STRANGER",
+    "author": "Katherine Center",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL28866624W",
+        "matchedTerms": [
+          "Fiction, romance, romantic comedy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28866624W",
+        "title": "Hello Stranger",
+        "authors": [
+          "Katherine Center"
+        ]
+      }
+    ]
+  },
+  "archive-cc369127976bf1c3db83": {
+    "title": "THE HEAVEN & EARTH GROCERY STORE",
+    "author": "James McBride",
+    "subjects": [
+      "Historical Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL34059667W",
+        "matchedTerms": [
+          "Historical",
+          "Historical Fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34059667W",
+        "title": "The Heaven & Earth Grocery Store",
+        "authors": [
+          "James McBride"
+        ]
+      }
+    ]
+  },
+  "archive-f3a40f0d0699ebb3ac55": {
+    "title": "HAPPINESS",
+    "author": "Danielle Steel",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL29171236W",
+        "matchedTerms": [
+          "Fiction, family life, general"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL29171236W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL29171236W",
+        "title": "Happiness",
+        "authors": [
+          "Danielle Steel"
+        ]
+      }
+    ]
+  },
+  "archive-3b7b51803c04b044e42c": {
+    "title": "DEAD MOUNTAIN",
+    "author": "Douglas Preston and Lincoln Child",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL37629120W",
+        "matchedTerms": [
+          "Fiction, mystery & detective, police procedural",
+          "Fiction, mystery & detective, women sleuths",
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34024641W",
+        "title": "Dead Mountain",
+        "authors": [
+          "Douglas Preston",
+          "Lincoln Child"
+        ]
+      },
+      {
+        "key": "/works/OL37629120W",
+        "title": "Dead Mountain",
+        "authors": [
+          "Douglas Preston",
+          "Lincoln Child"
+        ]
+      },
+      {
+        "key": "/works/OL35726447W",
+        "title": "Dead Mountain",
+        "authors": [
+          "Douglas Preston",
+          "Lincoln Child"
+        ]
+      }
+    ]
+  },
+  "archive-806914e028570c762ca6": {
+    "title": "LOOK OUT FOR THE LITTLE GUY!",
+    "author": "Scott Lang with Rob Kutner",
+    "subjects": [
+      "Humor"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Humor": {
+        "sourceUrl": "https://openlibrary.org/works/OL34315784W",
+        "matchedTerms": [
+          "Fiction, humorous, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34315784W",
+        "title": "Look Out For The Little Guy",
+        "authors": [
+          "Scott Lang"
+        ]
+      }
+    ]
+  },
+  "archive-00c071a431516da51012": {
+    "title": "THE VASTER WILDS",
+    "author": "Lauren Groff",
+    "subjects": [
+      "Historical Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL31165775W",
+        "matchedTerms": [
+          "Fiction, historical, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL31165775W",
+        "title": "Vaster Wilds",
+        "authors": [
+          "Lauren Groff"
+        ]
+      }
+    ]
+  },
+  "archive-b515e46fad9f195059ec": {
+    "title": "ASTOR",
+    "author": "Anderson Cooper and Katherine Howe",
+    "subjects": [
+      "History"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL35727466W",
+        "matchedTerms": [
+          "United states, history, 19th century",
+          "United states, history, 20th century"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL35727466W",
+        "title": "Astor",
+        "authors": [
+          "Anderson Cooper",
+          "Katherine Howe"
+        ]
+      }
+    ]
+  },
+  "archive-5031a1439f19e91a5e37": {
+    "title": "YUMI AND THE NIGHTMARE PAINTER",
+    "author": "Brandon Sanderson",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL31146657W",
+        "matchedTerms": [
+          "genre:fantasy"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL31146657W",
+        "matchedTerms": [
+          "genre:romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL31146657W",
+        "title": "Yumi and the Nightmare Painter",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "key": "/works/OL36221541W",
+        "title": "Yumi and the Nightmare Painter",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      }
+    ]
+  },
+  "archive-0b7fe297cff9a803f064": {
+    "title": "GOING INFINITE",
+    "author": "Michael Lewis",
+    "subjects": [
+      "Business & Technology",
+      "Personal Growth & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Business & Technology": {
+        "sourceUrl": "https://openlibrary.org/works/OL35710736W",
+        "matchedTerms": [
+          "Business ethics",
+          "Financial services industry",
+          "finance"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL35710736W",
+        "matchedTerms": [
+          "Business ethics"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL35710736W",
+        "title": "Going Infinite",
+        "authors": [
+          "Michael Lewis"
+        ]
+      }
+    ]
+  },
+  "archive-fd4691e944f7ec0c8fb5": {
+    "title": "DIRTY THIRTY",
+    "author": "Janet Evanovich",
+    "subjects": [
+      "Humor",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Humor": {
+        "sourceUrl": "https://openlibrary.org/works/OL34908950W",
+        "matchedTerms": [
+          "Fiction, humorous, general"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL34908950W",
+        "matchedTerms": [
+          "Fiction, mystery & detective, women sleuths",
+          "Fiction, thrillers, crime"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34908950W",
+        "title": "Dirty Thirty",
+        "authors": [
+          "Janet Evanovich"
+        ]
+      }
+    ]
+  },
+  "archive-1e890f8d42e378bdbf65": {
+    "title": "IRON FLAME",
+    "author": "Rebecca Yarros",
+    "subjects": [
+      "Adventure & Survival",
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL34028551W",
+        "matchedTerms": [
+          "Fiction, fantasy, action & adventure"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL34028551W",
+        "matchedTerms": [
+          "Fiction, fantasy, action & adventure",
+          "Fiction, fantasy, dragons & mythical creatures",
+          "Fiction, fantasy, epic"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34028551W",
+        "title": "Iron Flame",
+        "authors": [
+          "Rebecca Yarros"
+        ]
+      },
+      {
+        "key": "/works/OL44252738W",
+        "title": "Iron Flame",
+        "authors": [
+          "Rebecca Yarros"
+        ]
+      }
+    ]
+  },
+  "archive-bf457aa05a92ca4129d5": {
+    "title": "THE NARROW ROAD BETWEEN DESIRES",
+    "author": "Patrick Rothfuss",
+    "subjects": [
+      "Adventure & Survival",
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL35729088W",
+        "matchedTerms": [
+          "Fiction, fantasy, action & adventure",
+          "Fiction, fantasy, epic"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL35729088W",
+        "matchedTerms": [
+          "Fiction, fantasy, action & adventure"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL35729088W",
+        "title": "Narrow Road Between Desires",
+        "authors": [
+          "Patrick Rothfuss",
+          "Nate Taylor"
+        ]
+      }
+    ]
+  },
+  "archive-cb8890e800cffe934171": {
+    "title": "ALEX CROSS MUST DIE",
+    "author": "James Patterson",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL36092023W",
+        "matchedTerms": [
+          "Fiction, mystery & detective, general",
+          "Fiction, thrillers, crime",
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL36092023W",
+        "title": "Alex Cross Must Die",
+        "authors": [
+          "James Patterson"
+        ]
+      }
+    ]
+  },
+  "archive-ce8eb6110df4e06c8c0d": {
+    "title": "THE KINGDOM, THE POWER, AND THE GLORY",
+    "author": "Tim Alberta",
+    "subjects": [
+      "Arts & Culture",
+      "History",
+      "Politics & Society",
+      "Religion & Spirituality"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Religion & Spirituality": {
+        "sourceUrl": "https://openlibrary.org/works/OL35755143W",
+        "matchedTerms": [
+          "Christian Ministry",
+          "Christianity",
+          "Church work",
+          "Religion",
+          "Religion and sociology",
+          "Religion and state",
+          "Sociology of Religion"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL35755143W",
+        "matchedTerms": [
+          "POLITICAL SCIENCE",
+          "Politics & State",
+          "Religion and sociology",
+          "SOCIAL SCIENCE",
+          "Sociology of Religion"
+        ]
+      },
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL35755143W",
+        "matchedTerms": [
+          "culture"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL35755143W",
+        "matchedTerms": [
+          "history"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL35755143W",
+        "title": "The Kingdom, the Power, and the Glory",
+        "authors": [
+          "Tim Alberta"
+        ]
+      }
+    ]
+  },
+  "archive-f046842c6cfa3623db48": {
+    "title": "HOUSE OF FLAME AND SHADOW",
+    "author": "Sarah J. Maas",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL34780775W",
+        "matchedTerms": [
+          "Fae",
+          "Fantasy",
+          "Fantasy Romance",
+          "High Fantasy",
+          "Urban Fantasy"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL34780775W",
+        "matchedTerms": [
+          "Fantasy Romance",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34780775W",
+        "title": "House of Flame and Shadow",
+        "authors": [
+          "Sarah J. Maas"
+        ]
+      }
+    ]
+  },
+  "archive-0d75277073aa3193ea92": {
+    "title": "WHAT FEASTS AT NIGHT",
+    "author": "T. Kingfisher",
+    "subjects": [
+      "Fantasy",
+      "Historical Fiction",
+      "Horror"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Horror": {
+        "sourceUrl": "https://openlibrary.org/works/OL35056124W",
+        "matchedTerms": [
+          "Horror"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL35056124W",
+        "matchedTerms": [
+          "Fantasy"
+        ]
+      },
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL35056124W",
+        "matchedTerms": [
+          "Historical",
+          "Historical Fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL35056124W",
+        "title": "What Feasts at Night",
+        "authors": [
+          "T. Kingfisher"
+        ]
+      }
+    ]
+  },
+  "archive-64bc9fd110e12655ecbb": {
+    "title": "GHOST TOWN LIVING",
+    "author": "Brent Underwood",
+    "subjects": [
+      "History"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL37835876W",
+        "matchedTerms": [
+          "America, history"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37835876W",
+        "title": "Ghost Town Living",
+        "authors": [
+          "Brent Underwood"
+        ]
+      }
+    ]
+  },
+  "archive-e077d5bd1a435ff36cd8": {
+    "title": "NUCLEAR WAR",
+    "author": "Annie Jacobsen",
+    "subjects": [
+      "Arts & Culture",
+      "History",
+      "Science & Nature"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL38364901W",
+        "matchedTerms": [
+          "Military art and science",
+          "Nuclear warfare",
+          "United states, military policy"
+        ]
+      },
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL38364901W",
+        "matchedTerms": [
+          "Military art and science"
+        ]
+      },
+      "Science & Nature": {
+        "sourceUrl": "https://openlibrary.org/works/OL38364901W",
+        "matchedTerms": [
+          "Military art and science"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL38364901W",
+        "title": "Nuclear War",
+        "authors": [
+          "Annie Jacobsen"
+        ]
+      }
+    ]
+  },
+  "archive-fd46134fb1cd775bbd12": {
+    "title": "SOCIOPATH",
+    "author": "Patric Gagne",
+    "subjects": [
+      "Health & Psychology"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Health & Psychology": {
+        "sourceUrl": "https://openlibrary.org/works/OL37588134W",
+        "matchedTerms": [
+          "Internal medicine"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37588134W",
+        "title": "Sociopath",
+        "authors": [
+          "Patric Gagne"
+        ]
+      }
+    ]
+  },
+  "archive-a98da684fbe5456e28e3": {
+    "title": "SOMEHOW",
+    "author": "Anne Lamott",
+    "subjects": [
+      "Health & Psychology"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Health & Psychology": {
+        "sourceUrl": "https://openlibrary.org/works/OL37576674W",
+        "matchedTerms": [
+          "Psychology"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37576674W",
+        "title": "Somehow",
+        "authors": [
+          "Anne Lamott"
+        ]
+      }
+    ]
+  },
+  "archive-ebed4674b3e74659d8bd": {
+    "title": "CLOSE TO DEATH",
+    "author": "Anthony Horowitz",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL37581801W",
+        "matchedTerms": [
+          "Crime, fiction",
+          "Detective and mystery stories",
+          "Fiction, crime",
+          "Fiction, mystery & detective, amateur sleuth",
+          "Fiction, suspense",
+          "Investigation",
+          "Murder",
+          "Mystery & Detective",
+          "Mystery fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37581801W",
+        "title": "Close to Death",
+        "authors": [
+          "Anthony Horowitz"
+        ]
+      },
+      {
+        "key": "/works/OL45734333W",
+        "title": "Close to Death",
+        "authors": [
+          "Anthony Horowitz"
+        ]
+      }
+    ]
+  },
+  "archive-78396c32805115e6bc92": {
+    "title": "THE WORK OF ART",
+    "author": "Adam Moss",
+    "subjects": [
+      "Arts & Culture",
+      "Biography & Memoir",
+      "Essays",
+      "History",
+      "Personal Growth & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL37624891W",
+        "matchedTerms": [
+          "Art"
+        ]
+      },
+      "Essays": {
+        "sourceUrl": "https://openlibrary.org/works/OL37624891W",
+        "matchedTerms": [
+          "Essays"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL37624891W",
+        "matchedTerms": [
+          "Philosophy",
+          "Self Help"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL37624891W",
+        "matchedTerms": [
+          "History"
+        ]
+      },
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL37624891W",
+        "matchedTerms": [
+          "Biography Memoir"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37624891W",
+        "title": "The Work of Art",
+        "authors": [
+          "Adam Moss"
+        ]
+      }
+    ]
+  },
+  "archive-2c97a2b2771145b2ed08": {
+    "title": "BY THE TIME YOU READ THIS",
+    "author": "Cheslie Kryst and April Simpkins",
+    "subjects": [
+      "Biography & Memoir"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL37616355W",
+        "matchedTerms": [
+          "Biography"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37616355W",
+        "title": "By the Time You Read This",
+        "authors": [
+          "April Simpkins",
+          "Cheslie Kryst"
+        ]
+      }
+    ]
+  },
+  "archive-706f5c2261aec50c46ce": {
+    "title": "FIRE IN THE HOLE!",
+    "author": "Bob Parsons with Laura Morton",
+    "subjects": [
+      "Business & Technology"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Business & Technology": {
+        "sourceUrl": "https://openlibrary.org/works/OL37857526W",
+        "matchedTerms": [
+          "Business"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37857526W",
+        "title": "Fire in the Hole!",
+        "authors": [
+          "Bob Parsons",
+          "Laura Morton"
+        ]
+      }
+    ]
+  },
+  "archive-9f2fae20337a0e1d8576": {
+    "title": "CAMINO GHOSTS",
+    "author": "John Grisham",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL42414040W",
+        "matchedTerms": [
+          "Fiction, thrillers, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37836170W",
+        "title": "Camino Ghosts",
+        "authors": [
+          "John Grisham"
+        ]
+      },
+      {
+        "key": "/works/OL42414040W",
+        "title": "Camino Ghosts",
+        "authors": [
+          "John Grisham"
+        ]
+      }
+    ]
+  },
+  "archive-d0c9bebcea954b278979": {
+    "title": "RESURRECTION",
+    "author": "Danielle Steel",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL37646483W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary",
+          "Fiction, romance, later in life"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37646483W",
+        "title": "Resurrection",
+        "authors": [
+          "Danielle Steel"
+        ]
+      },
+      {
+        "key": "/works/OL42442714W",
+        "title": "Resurrection",
+        "authors": [
+          "Danielle Steel"
+        ]
+      }
+    ]
+  },
+  "archive-b9aa23355548685c4dc6": {
+    "title": "THE BOOK OF ELSEWHERE",
+    "author": "Keanu Reeves and China Miéville",
+    "subjects": [
+      "Adventure & Survival",
+      "Fantasy",
+      "Horror",
+      "Mystery & Suspense",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL37570368W",
+        "matchedTerms": [
+          "Fiction, science fiction, action & adventure",
+          "Fiction, science fiction, general",
+          "Science Fiction Fantasy",
+          "Science fiction"
+        ]
+      },
+      "Horror": {
+        "sourceUrl": "https://openlibrary.org/works/OL37570368W",
+        "matchedTerms": [
+          "Fiction, horror",
+          "Horror"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL37570368W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fiction, fantasy, action & adventure",
+          "Science Fiction Fantasy"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL37570368W",
+        "matchedTerms": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL37570368W",
+        "matchedTerms": [
+          "Fiction, action & adventure",
+          "Fiction, fantasy, action & adventure",
+          "Fiction, science fiction, action & adventure"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37570368W",
+        "title": "The Book of Elsewhere",
+        "authors": [
+          "Keanu Reeves",
+          "China Miéville"
+        ]
+      }
+    ]
+  },
+  "archive-c271a0dc6e9fc926c888": {
+    "title": "ON FREEDOM",
+    "author": "Timothy Snyder",
+    "subjects": [
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL38675850W",
+        "matchedTerms": [
+          "Political science"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37574810W",
+        "title": "On Freedom",
+        "authors": [
+          "Timothy Snyder"
+        ]
+      },
+      {
+        "key": "/works/OL38675850W",
+        "title": "On Freedom",
+        "authors": [
+          "Timothy Snyder"
+        ]
+      }
+    ]
+  },
+  "archive-ccef93f85bbf1998da9b": {
+    "title": "PLAYGROUND",
+    "author": "Richard Powers",
+    "subjects": [
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42540642W",
+        "matchedTerms": [
+          "Fiction, dystopian"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37830316W",
+        "title": "Playground",
+        "authors": [
+          "Richard Powers"
+        ]
+      },
+      {
+        "key": "/works/OL42540642W",
+        "title": "Playground",
+        "authors": [
+          "Richard Powers"
+        ]
+      }
+    ]
+  },
+  "archive-34222f38713a305d245c": {
+    "title": "WHEN THE MOON HATCHED",
+    "author": "Sarah A. Parker",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL38010057W",
+        "matchedTerms": [
+          "Dragons",
+          "Fae",
+          "Fantasy",
+          "Fantasy Romance",
+          "Magic"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL38010057W",
+        "matchedTerms": [
+          "Fantasy Romance",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL38010057W",
+        "title": "When the Moon Hatched",
+        "authors": [
+          "Sarah A. Parker"
+        ]
+      }
+    ]
+  },
+  "archive-96eab7d105362f80a190": {
+    "title": "TRIANGLE",
+    "author": "Danielle Steel",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42428011W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37583899W",
+        "title": "Triangle",
+        "authors": [
+          "Danielle Steel"
+        ]
+      },
+      {
+        "key": "/works/OL44100620W",
+        "title": "Triangle",
+        "authors": [
+          "Danielle Steel"
+        ]
+      },
+      {
+        "key": "/works/OL42428011W",
+        "title": "Triangle",
+        "authors": [
+          "Danielle Steel"
+        ]
+      },
+      {
+        "key": "/works/OL45272954W",
+        "title": "Triangle",
+        "authors": [
+          "Danielle Steel"
+        ]
+      }
+    ]
+  },
+  "archive-9b9a0962e13366e9bc17": {
+    "title": "TOXIC EMPATHY",
+    "author": "Allie Beth Stuckey",
+    "subjects": [
+      "Arts & Culture",
+      "Personal Growth & Relationships",
+      "Politics & Society",
+      "Religion & Spirituality"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL42549697W",
+        "matchedTerms": [
+          "Political culture"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL42549697W",
+        "matchedTerms": [
+          "Christianity and politics",
+          "Political culture",
+          "United states, politics and government, 1989-"
+        ]
+      },
+      "Religion & Spirituality": {
+        "sourceUrl": "https://openlibrary.org/works/OL42549697W",
+        "matchedTerms": [
+          "Christian ethics",
+          "Christianity and politics"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42549697W",
+        "matchedTerms": [
+          "Christian ethics"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42549697W",
+        "title": "Toxic Empathy",
+        "authors": [
+          "Allie Beth Stuckey"
+        ]
+      }
+    ]
+  },
+  "archive-112b8006ff8256776edd": {
+    "title": "AMERICAN HEROES",
+    "author": "James Patterson and Matt Eversmann with Tim Malloy",
+    "subjects": [
+      "Biography & Memoir",
+      "History",
+      "Science & Nature"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science & Nature": {
+        "sourceUrl": "https://openlibrary.org/works/OL44551596W",
+        "matchedTerms": [
+          "Special forces (military science)"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL44551596W",
+        "matchedTerms": [
+          "Special forces (military science)"
+        ]
+      },
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL44551596W",
+        "matchedTerms": [
+          "United states, armed forces, biography"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44551596W",
+        "title": "American Heroes",
+        "authors": [
+          "James Patterson"
+        ]
+      }
+    ]
+  },
+  "archive-a42f2184604a2c4bccff": {
+    "title": "LEGENDS & LATTES",
+    "author": "Travis Baldree",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL27591348W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fiction, fantasy, general",
+          "cozy fantasy"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL27591348W",
+        "matchedTerms": [
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27591348W",
+        "title": "Legends & Lattes",
+        "authors": [
+          "Travis Baldree"
+        ]
+      }
+    ]
+  },
+  "archive-d20fa2af13731af746d8": {
+    "title": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+    "author": "Taylor Jenkins Reid",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL18203673W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary",
+          "Romance"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL18203673W",
+        "matchedTerms": [
+          "Family Life"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL18203673W",
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "authors": [
+          "Taylor Jenkins Reid"
+        ]
+      }
+    ]
+  },
+  "archive-f6a5ef7f4dd34d95a0a6": {
+    "title": "THINGS WE LEFT BEHIND",
+    "author": "Lucy Score",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL34811234W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary",
+          "Fiction, romance, romantic comedy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34811234W",
+        "title": "Things We Left Behind",
+        "authors": [
+          "Lucy Score"
+        ]
+      }
+    ]
+  },
+  "archive-3e056bb6418e5b6f4449": {
+    "title": "THINGS WE HIDE FROM THE LIGHT",
+    "author": "Lucy Score",
+    "subjects": [
+      "Mystery & Suspense",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL28880495W",
+        "matchedTerms": [
+          "Fiction, romance, contemporary",
+          "Fiction, romance, romantic comedy",
+          "Fiction, romance, suspense"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL28880495W",
+        "matchedTerms": [
+          "Fiction, romance, suspense"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28880495W",
+        "title": "Things We Hide from the Light",
+        "authors": [
+          "Lucy Score"
+        ]
+      }
+    ]
+  },
+  "archive-919a68ce87017a95614c": {
+    "title": "CLIVE CUSSLER: DESOLATION CODE",
+    "author": "Graham Brown",
+    "subjects": [
+      "Adventure & Survival",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL42550839W",
+        "matchedTerms": [
+          "Fiction, thrillers, crime",
+          "Fiction, thrillers, suspense"
+        ]
+      },
+      "Adventure & Survival": {
+        "sourceUrl": "https://openlibrary.org/works/OL42550839W",
+        "matchedTerms": [
+          "Fiction, action & adventure"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42550839W",
+        "title": "Clive Cussler Desolation Code",
+        "authors": [
+          "Graham Brown"
+        ]
+      }
+    ]
+  },
+  "archive-4c36db6d054a9847c532": {
+    "title": "ICEBREAKER",
+    "author": "Hannah Grace",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL28952677W",
+        "matchedTerms": [
+          "Romance",
+          "enemies to lovers",
+          "rivals to lovers",
+          "second chance romance"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL28952677W",
+        "matchedTerms": [
+          "family",
+          "friendship",
+          "love"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL28952677W",
+        "title": "Icebreaker",
+        "authors": [
+          "Hannah Grace"
+        ]
+      }
+    ]
+  },
+  "archive-3976162406918634b753": {
+    "title": "THE HOUSE OF MY MOTHER",
+    "author": "Shari Franke",
+    "subjects": [
+      "Biography & Memoir",
+      "Personal Growth & Relationships",
+      "Religion & Spirituality"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL42426601W",
+        "matchedTerms": [
+          "Biography & Autobiography"
+        ]
+      },
+      "Religion & Spirituality": {
+        "sourceUrl": "https://openlibrary.org/works/OL42426601W",
+        "matchedTerms": [
+          "Church of Jesus Christ of Latter-day Saints",
+          "Religion & Spirituality"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42426601W",
+        "matchedTerms": [
+          "Family relationships",
+          "parenting"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42426601W",
+        "title": "The House of My Mother",
+        "authors": [
+          "Shari Franke"
+        ]
+      }
+    ]
+  },
+  "archive-d25d73fce5a19d393c92": {
+    "title": "WINTERING",
+    "author": "Katherine May",
+    "subjects": [
+      "Biography & Memoir",
+      "Health & Psychology",
+      "Personal Growth & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Health & Psychology": {
+        "sourceUrl": "https://openlibrary.org/works/OL20743274W",
+        "matchedTerms": [
+          "Change (Psychology)",
+          "Healing power of Nature",
+          "Nature, healing power of",
+          "Psychology",
+          "Self-actualization (psychology)",
+          "Stress tolerance (Psychology)"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL20743274W",
+        "matchedTerms": [
+          "Ethics",
+          "PHILOSOPHY / Ethics & Moral Philosophy"
+        ]
+      },
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL20743274W",
+        "matchedTerms": [
+          "Authors, biography"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL20743274W",
+        "title": "Wintering",
+        "authors": [
+          "Katherine May"
+        ]
+      },
+      {
+        "key": "/works/OL31349065W",
+        "title": "Wintering",
+        "authors": [
+          "Katherine May"
+        ]
+      }
+    ]
+  },
+  "archive-e001c0d8b8edad0d78f3": {
+    "title": "ONYX STORM",
+    "author": "Rebecca Yarros",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL41943074W",
+        "matchedTerms": [
+          "Fiction, fantasy, epic",
+          "Fiction, fantasy, romance",
+          "Fiction, romance, fantasy"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL41943074W",
+        "matchedTerms": [
+          "Fiction, fantasy, romance",
+          "Fiction, romance, fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL41943074W",
+        "title": "Onyx Storm",
+        "authors": [
+          "Rebecca Yarros"
+        ]
+      },
+      {
+        "key": "/works/OL45634224W",
+        "title": "Onyx Storm",
+        "authors": [
+          "Rebecca Yarros"
+        ]
+      },
+      {
+        "key": "/works/OL44311526W",
+        "title": "Onyx Storm",
+        "authors": [
+          "Rebecca Yarros"
+        ]
+      }
+    ]
+  },
+  "archive-a8f029458eb1d19bdf40": {
+    "title": "MEMORIAL DAYS",
+    "author": "Geraldine Brooks",
+    "subjects": [
+      "Arts & Culture"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL42402792W",
+        "matchedTerms": [
+          "English literature"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42402792W",
+        "title": "Memorial Days",
+        "authors": [
+          "Geraldine Brooks"
+        ]
+      },
+      {
+        "key": "/works/OL45983695W",
+        "title": "Memorial Days",
+        "authors": [
+          "Geraldine Brooks"
+        ]
+      }
+    ]
+  },
+  "archive-4f9985bfba27a2a8f956": {
+    "title": "YOU DIDN'T HEAR THIS FROM ME",
+    "author": "Kelsey McKinney",
+    "subjects": [
+      "Personal Growth & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42425254W",
+        "matchedTerms": [
+          "Ethics"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42425254W",
+        "title": "You Didn't Hear This from Me",
+        "authors": [
+          "Kelsey McKinney"
+        ]
+      }
+    ]
+  },
+  "archive-e98ba042d546f124c7d9": {
+    "title": "ONE DAY, EVERYONE WILL HAVE ALWAYS BEEN AGAINST THIS",
+    "author": "Omar El Akkad",
+    "subjects": [
+      "Arts & Culture",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL42340805W",
+        "matchedTerms": [
+          "American literature"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL42395464W",
+        "matchedTerms": [
+          "Political science"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42340805W",
+        "title": "One Day, Everyone Will Have Always Been Against This",
+        "authors": [
+          "Omar El Akkad"
+        ]
+      },
+      {
+        "key": "/works/OL42395464W",
+        "title": "One Day, Everyone Will Have Always Been Against This",
+        "authors": [
+          "Omar El Akkad"
+        ]
+      }
+    ]
+  },
+  "archive-9078ab9d92bd75017df5": {
+    "title": "DREAM COUNT",
+    "author": "Chimamanda Ngozi Adichie",
+    "subjects": [
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42407991W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      },
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42407991W",
+        "matchedTerms": [
+          "Historical Fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42407991W",
+        "title": "Dream Count",
+        "authors": [
+          "Chimamanda Ngozi Adichie"
+        ]
+      }
+    ]
+  },
+  "archive-dcaa4ab087b882b55241": {
+    "title": "THE GATE OF THE FERAL GODS",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL24848267W",
+        "matchedTerms": [
+          "genre:science fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24848267W",
+        "title": "The Gate of the Feral Gods",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      },
+      {
+        "key": "/works/OL42486158W",
+        "title": "The Gate of the Feral Gods",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-93060123eb5f07cc4564": {
+    "title": "CARELESS PEOPLE",
+    "author": "Sarah Wynn-Williams",
+    "subjects": [
+      "Biography & Memoir",
+      "Business & Technology",
+      "History",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Business & Technology": {
+        "sourceUrl": "https://openlibrary.org/works/OL42735465W",
+        "matchedTerms": [
+          "Business",
+          "Corporations, corrupt practices",
+          "Technology"
+        ]
+      },
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL42735465W",
+        "matchedTerms": [
+          "Biography",
+          "Biography Memoir",
+          "Memoir"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL42735465W",
+        "matchedTerms": [
+          "Politics"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL42735465W",
+        "matchedTerms": [
+          "History"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42735465W",
+        "title": "Careless People",
+        "authors": [
+          "Sarah Wynn-Williams"
+        ]
+      }
+    ]
+  },
+  "archive-00e4dee89e46b958216f": {
+    "title": "SUMMER IN THE CITY",
+    "author": "Alex Aster",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42407017W",
+        "matchedTerms": [
+          "Contemporary Romance",
+          "Enemies To Lovers",
+          "Fake Dating",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42407017W",
+        "title": "Summer in the City",
+        "authors": [
+          "Alex Aster"
+        ]
+      }
+    ]
+  },
+  "archive-0511174519d37b17f7a2": {
+    "title": "WILDFIRE",
+    "author": "Hannah Grace",
+    "subjects": [
+      "Family & Relationships",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL34955908W",
+        "matchedTerms": [
+          "m-f romance",
+          "romance"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL34955908W",
+        "matchedTerms": [
+          "forbidden love"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34955908W",
+        "title": "Wildfire",
+        "authors": [
+          "Hannah Grace"
+        ]
+      }
+    ]
+  },
+  "archive-9ec758c5b9348b96eac2": {
+    "title": "BLOOD OF HERCULES",
+    "author": "Jasmine Mas",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL38674468W",
+        "matchedTerms": [
+          "Fiction, romance, general"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL38674468W",
+        "matchedTerms": [
+          "Fiction, fantasy, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL38674468W",
+        "title": "Blood of Hercules",
+        "authors": [
+          "Jasmine Mas"
+        ]
+      }
+    ]
+  },
+  "archive-930a5f311767e05199a9": {
+    "title": "THE BUTCHER'S MASQUERADE",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL34721292W",
+        "matchedTerms": [
+          "genre:science fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34721292W",
+        "title": "The Butcher’s Masquerade",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-9f3b8efd035c3ab0ae85": {
+    "title": "SHIELD OF SPARROWS",
+    "author": "Devney Perry",
+    "subjects": [
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42483262W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fantasy Romance",
+          "Science Fiction Fantasy"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42483262W",
+        "matchedTerms": [
+          "Fantasy Romance",
+          "Romance"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42483262W",
+        "matchedTerms": [
+          "Science Fiction Fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42483262W",
+        "title": "Shield of Sparrows",
+        "authors": [
+          "Devney Perry"
+        ]
+      }
+    ]
+  },
+  "archive-9ae8da3a0d88856c3d07": {
+    "title": "THE EMPEROR OF GLADNESS",
+    "author": "Ocean Vuong",
+    "subjects": [
+      "Literary Fiction",
+      "Poetry & Short Stories"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42394591W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      },
+      "Poetry & Short Stories": {
+        "sourceUrl": "https://openlibrary.org/works/OL42394591W",
+        "matchedTerms": [
+          "Poetry"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42394591W",
+        "title": "The Emperor of Gladness",
+        "authors": [
+          "Ocean Vuong"
+        ]
+      }
+    ]
+  },
+  "archive-e411a91ba8350704135a": {
+    "title": "THE EYE OF THE BEDLAM BRIDE",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL36748104W",
+        "matchedTerms": [
+          "genre:science fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL36748104W",
+        "title": "The Eye of the Bedlam Bride",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-5bcbc42d0dfb47f23e2c": {
+    "title": "IS A RIVER ALIVE?",
+    "author": "Robert Macfarlane",
+    "subjects": [
+      "History",
+      "Personal Growth & Relationships",
+      "Science & Nature",
+      "Sports & Adventure"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science & Nature": {
+        "sourceUrl": "https://openlibrary.org/works/OL42398965W",
+        "matchedTerms": [
+          "Ecology",
+          "Ecología",
+          "Environment",
+          "Natural History",
+          "Science"
+        ]
+      },
+      "Sports & Adventure": {
+        "sourceUrl": "https://openlibrary.org/works/OL42398965W",
+        "matchedTerms": [
+          "Travel"
+        ]
+      },
+      "History": {
+        "sourceUrl": "https://openlibrary.org/works/OL42398965W",
+        "matchedTerms": [
+          "History",
+          "Natural History"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42398965W",
+        "matchedTerms": [
+          "Philosophy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42398965W",
+        "title": "Is a River Alive?",
+        "authors": [
+          "Robert Macfarlane"
+        ]
+      }
+    ]
+  },
+  "archive-dd87695b759d79470755": {
+    "title": "SO GAY FOR YOU",
+    "author": "Leisha Hailey and Kate Moennig",
+    "subjects": [
+      "Biography & Memoir",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL42425941W",
+        "matchedTerms": [
+          "Biography",
+          "Biography Memoir",
+          "LGBTQ biography and memoir",
+          "Memoir"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL42425941W",
+        "matchedTerms": [
+          "Feminism"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42425941W",
+        "title": "So Gay for You",
+        "authors": [
+          "Kate Moennig",
+          "Leisha Hailey"
+        ]
+      }
+    ]
+  },
+  "archive-6a94cf210523d9d12d61": {
+    "title": "THE RIVER IS WAITING",
+    "author": "Wally Lamb",
+    "subjects": [
+      "Family & Relationships",
+      "Literary Fiction",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42428586W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL42428586W",
+        "matchedTerms": [
+          "Mystery"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42428586W",
+        "matchedTerms": [
+          "Family"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42428586W",
+        "title": "The River Is Waiting",
+        "authors": [
+          "Wally Lamb"
+        ]
+      }
+    ]
+  },
+  "archive-78a7fbb6e6e2d52f1a42": {
+    "title": "THE LOVE HYPOTHESIS",
+    "author": "Ali Hazelwood",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL24178205W",
+        "matchedTerms": [
+          "Contemporary Romance",
+          "Romantic fiction",
+          "romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24178205W",
+        "title": "The Love Hypothesis",
+        "authors": [
+          "Ali Hazelwood"
+        ]
+      }
+    ]
+  },
+  "archive-d957a52c7bdb125ef2ce": {
+    "title": "THE IRRESISTIBLE URGE TO FALL FOR YOUR ENEMY",
+    "author": "Brigitte Knightley",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42432130W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fantasy Romance",
+          "Magic"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42432130W",
+        "matchedTerms": [
+          "Enemies To Lovers",
+          "Fantasy Romance",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42432130W",
+        "title": "The Irresistible Urge to Fall for Your Enemy",
+        "authors": [
+          "Brigitte Knightley"
+        ]
+      }
+    ]
+  },
+  "archive-13de7bbab43583ba8b5a": {
+    "title": "THE GIRL I WAS",
+    "author": "Jeneva Rose",
+    "subjects": [
+      "Fantasy",
+      "Mystery & Suspense",
+      "Romance",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL26086564W",
+        "matchedTerms": [
+          "Fiction, romance, general",
+          "Romance"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL26086564W",
+        "matchedTerms": [
+          "Time Travel"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL26086564W",
+        "matchedTerms": [
+          "Fantasy",
+          "Magical Realism"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL26086564W",
+        "matchedTerms": [
+          "Thriller"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL26086564W",
+        "title": "The Girl I Was",
+        "authors": [
+          "Jeneva Rose"
+        ]
+      }
+    ]
+  },
+  "archive-41622d01359370d1a534": {
+    "title": "ARCANA ACADEMY",
+    "author": "Elise Kova",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42419363W",
+        "matchedTerms": [
+          "Fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42419363W",
+        "title": "Arcana Academy",
+        "authors": [
+          "Elise Kova"
+        ]
+      }
+    ]
+  },
+  "archive-117fa9bab39eb161d422": {
+    "title": "SCARRED",
+    "author": "Emily McIntire",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL27245840W",
+        "matchedTerms": [
+          "Fiction, romance, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27245840W",
+        "title": "Scarred",
+        "authors": [
+          "Emily McIntire"
+        ]
+      },
+      {
+        "key": "/works/OL45601519W",
+        "title": "Scarred",
+        "authors": [
+          "Emily Mcintire"
+        ]
+      },
+      {
+        "key": "/works/OL37619004W",
+        "title": "Scarred : una Historia de Nunca Jamás",
+        "authors": [
+          "Emily McIntire",
+          "Cristina MACÍA ORIO"
+        ]
+      }
+    ]
+  },
+  "archive-38acf055a922632d0456": {
+    "title": "THE PUMPKIN SPICE CAFÉ",
+    "author": "Laurie Gilmore",
+    "subjects": [
+      "Mystery & Suspense",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL34337924W",
+        "matchedTerms": [
+          "contemporary romance",
+          "romance"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL34337924W",
+        "matchedTerms": [
+          "mystery"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34337924W",
+        "title": "The Pumpkin Spice Café",
+        "authors": [
+          "Laurie Gilmore"
+        ]
+      }
+    ]
+  },
+  "archive-030c273869faa9f49a85": {
+    "title": "ALL THE WAY TO THE RIVER",
+    "author": "Elizabeth Gilbert",
+    "subjects": [
+      "Biography & Memoir",
+      "Health & Psychology"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL42542614W",
+        "matchedTerms": [
+          "Biography",
+          "Biography Memoir",
+          "Memoir"
+        ]
+      },
+      "Health & Psychology": {
+        "sourceUrl": "https://openlibrary.org/works/OL42542614W",
+        "matchedTerms": [
+          "Addiction",
+          "Grief"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42542614W",
+        "title": "All the Way to the River",
+        "authors": [
+          "Elizabeth Gilbert"
+        ]
+      },
+      {
+        "key": "/works/OL44562502W",
+        "title": "All the Way to the River",
+        "authors": [
+          "Elizabeth Gilbert"
+        ]
+      }
+    ]
+  },
+  "archive-86dc948fa4bb859e0629": {
+    "title": "THE ACADEMY",
+    "author": "Elin Hilderbrand and Shelby Cunningham",
+    "subjects": [
+      "Mystery & Suspense",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL44039811W",
+        "matchedTerms": [
+          "Romance"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL44039811W",
+        "matchedTerms": [
+          "Mystery"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44039811W",
+        "title": "The Academy",
+        "authors": [
+          "Elin Hilderbrand",
+          "Shelby Cunningham"
+        ]
+      }
+    ]
+  },
+  "archive-0046fb8810932d61a8db": {
+    "title": "ASSISTANT TO THE VILLAIN",
+    "author": "Hannah Nicole Maehrer",
+    "subjects": [
+      "Fantasy",
+      "Humor",
+      "Mystery & Suspense",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL34840408W",
+        "matchedTerms": [
+          "Cozy Fantasy",
+          "Fantasy",
+          "Fantasy Romance",
+          "Fiction, fantasy, humorous",
+          "Fiction, fantasy, romance",
+          "Magic"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL34840408W",
+        "matchedTerms": [
+          "Fantasy Romance",
+          "Fiction, fantasy, romance",
+          "Romance"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL34840408W",
+        "matchedTerms": [
+          "Mystery"
+        ]
+      },
+      "Humor": {
+        "sourceUrl": "https://openlibrary.org/works/OL34840408W",
+        "matchedTerms": [
+          "Fiction, fantasy, humorous",
+          "Humor"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL34840408W",
+        "title": "Assistant to the Villain",
+        "authors": [
+          "Hannah Nicole Maehrer"
+        ]
+      }
+    ]
+  },
+  "archive-1d4d4f4a1f3d5875e351": {
+    "title": "THE CORRESPONDENT",
+    "author": "Virginia Evans",
+    "subjects": [
+      "Family & Relationships",
+      "Literary Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42414694W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42414694W",
+        "matchedTerms": [
+          "Family",
+          "Grief"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42414694W",
+        "title": "The Correspondent",
+        "authors": [
+          "Virginia Evans"
+        ]
+      }
+    ]
+  },
+  "archive-33ed2a79e93c663a97f7": {
+    "title": "IF ANYONE BUILDS IT, EVERYONE DIES",
+    "author": "Eliezer Yudkowsky and Nate Soares",
+    "subjects": [
+      "Business & Technology",
+      "Personal Growth & Relationships"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Business & Technology": {
+        "sourceUrl": "https://openlibrary.org/works/OL42542608W",
+        "matchedTerms": [
+          "artificial intelligence",
+          "technology"
+        ]
+      },
+      "Personal Growth & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL42542608W",
+        "matchedTerms": [
+          "ethics"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42542608W",
+        "title": "If Anyone Builds It, Everyone Dies",
+        "authors": [
+          "Eliezer Yudkowsky",
+          "Nathaniel Soares"
+        ]
+      }
+    ]
+  },
+  "archive-4cad3f03cd54b3a75124": {
+    "title": "ALCHEMISED",
+    "author": "SenLinYu",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42543873W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fantasy Romance"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42543873W",
+        "matchedTerms": [
+          "Dark Romance",
+          "Enemies To Lovers",
+          "Fantasy Romance",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42543873W",
+        "title": "Alchemised",
+        "authors": [
+          "SenLinYu"
+        ]
+      }
+    ]
+  },
+  "archive-efcbcbe237c5729a8507": {
+    "title": "ONE DARK WINDOW",
+    "author": "Rachel Gillig",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL25468077W",
+        "matchedTerms": [
+          "Fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL25468077W",
+        "title": "One Dark Window",
+        "authors": [
+          "Rachel Gillig"
+        ]
+      }
+    ]
+  },
+  "archive-630553715decf5b593c6": {
+    "title": "THIS INEVITABLE RUIN",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL41914127W",
+        "matchedTerms": [
+          "genre:science fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL41914127W",
+        "title": "This Inevitable Ruin",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-23020d04f693e44a0bc7": {
+    "title": "THE LONELINESS OF SONIA AND SUNNY",
+    "author": "Kiran Desai",
+    "subjects": [
+      "Literary Fiction",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42397165W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42397165W",
+        "matchedTerms": [
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42397165W",
+        "title": "The Loneliness of Sonia and Sunny",
+        "authors": [
+          "Kiran Desai"
+        ]
+      }
+    ]
+  },
+  "archive-ee53b13e43de0cfc5284": {
+    "title": "WHEN EVERYONE KNOWS THAT EVERYONE KNOWS ...",
+    "author": "Steven Pinker",
+    "subjects": [
+      "Health & Psychology",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Health & Psychology": {
+        "sourceUrl": "https://openlibrary.org/works/OL42405240W",
+        "matchedTerms": [
+          "shared mental states"
+        ]
+      },
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL42405240W",
+        "matchedTerms": [
+          "sociology of Knowledge"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42405240W",
+        "title": "When Everyone Knows That Everyone Knows",
+        "authors": [
+          "Steven Pinker"
+        ]
+      }
+    ]
+  },
+  "archive-a6d1a856cb2451fd8267": {
+    "title": "BONDS OF HERCULES",
+    "author": "Jasmine Mas",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL39195890W",
+        "matchedTerms": [
+          "Fiction, romance, general"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL39195890W",
+        "matchedTerms": [
+          "Fiction, fantasy, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL39195890W",
+        "title": "Bonds of Hercules",
+        "authors": [
+          "Jasmine Mas"
+        ]
+      },
+      {
+        "key": "/works/OL42552825W",
+        "title": "Bonds of Hercules",
+        "authors": [
+          "Jasmine Mas"
+        ]
+      },
+      {
+        "key": "/works/OL42436776W",
+        "title": "Bonds of Hercules",
+        "authors": [
+          "Jasmine Mas"
+        ]
+      },
+      {
+        "key": "/works/OL42460817W",
+        "title": "Bonds of Hercules",
+        "authors": [
+          "Jasmine Mas"
+        ]
+      }
+    ]
+  },
+  "archive-e249379ec6bd442701df": {
+    "title": "RIGHT WING REVOLUTION",
+    "author": "Charlie Kirk",
+    "subjects": [
+      "Biography & Memoir",
+      "Politics & Society"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Politics & Society": {
+        "sourceUrl": "https://openlibrary.org/works/OL37868050W",
+        "matchedTerms": [
+          "Political science"
+        ]
+      },
+      "Biography & Memoir": {
+        "sourceUrl": "https://openlibrary.org/works/OL37868050W",
+        "matchedTerms": [
+          "Biography"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL37868050W",
+        "title": "Right Wing Revolution",
+        "authors": [
+          "Charlie Kirk",
+          "Sergio Gor"
+        ]
+      }
+    ]
+  },
+  "archive-7d526523dc1d8ac14f24": {
+    "title": "THE STRENGTH OF THE FEW",
+    "author": "James Islington",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL44370085W",
+        "matchedTerms": [
+          "genre:high fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44370085W",
+        "title": "The Strength of the Few",
+        "authors": [
+          "James Islington"
+        ]
+      }
+    ]
+  },
+  "archive-550fa3a61062f33087fb": {
+    "title": "BRIGANDS & BREADKNIVES",
+    "author": "Travis Baldree",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42396986W",
+        "matchedTerms": [
+          "Fiction, fantasy, general",
+          "cozy fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42396986W",
+        "title": "Brigands & Breadknives",
+        "authors": [
+          "Travis Baldree"
+        ]
+      }
+    ]
+  },
+  "archive-0c6f99190a84c52d7038": {
+    "title": "THE BOOK OF AZRAEL",
+    "author": "Amber V. Nicole",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL44404605W",
+        "matchedTerms": [
+          "BookTok viral fantasy",
+          "Dark fantasy saga",
+          "Epic fantasy romance",
+          "Gods and Monsters series"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL44404605W",
+        "matchedTerms": [
+          "Epic fantasy romance",
+          "Slowburn romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44404605W",
+        "title": "The book of Azrael",
+        "authors": [
+          "Amber V. Nicole"
+        ]
+      }
+    ]
+  },
+  "archive-30ea95c438a0fa6592b9": {
+    "title": "TAILORED REALITIES",
+    "author": "Brandon Sanderson",
+    "subjects": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42413123W",
+        "matchedTerms": [
+          "fantasy"
+        ]
+      },
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL42413123W",
+        "matchedTerms": [
+          "science fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42413123W",
+        "title": "Tailored Realities",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      }
+    ]
+  },
+  "archive-d51ed07cc904bf7626ac": {
+    "title": "ENCHANTRA",
+    "author": "Kaylie Smith",
+    "subjects": [
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL43920629W",
+        "matchedTerms": [
+          "Dark Romance",
+          "Fantasy Romance",
+          "Romance"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL43920629W",
+        "matchedTerms": [
+          "Fantasy",
+          "Fantasy Romance"
+        ]
+      },
+      "Horror": {
+        "sourceUrl": "https://openlibrary.org/works/OL43920629W",
+        "matchedTerms": [
+          "Horror"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL43920629W",
+        "title": "Enchantra",
+        "authors": [
+          "Kaylie Smith"
+        ]
+      }
+    ]
+  },
+  "archive-6148157536a2759ef778": {
+    "title": "OPERATION BOUNCE HOUSE",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL44660264W",
+        "matchedTerms": [
+          "genre:science fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44660264W",
+        "title": "Operation Bounce House",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-4ca9b0d0f9ab47ba1f5d": {
+    "title": "WRETCHED",
+    "author": "Emily McIntire",
+    "subjects": [
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL27895414W",
+        "matchedTerms": [
+          "Fiction, romance, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27895414W",
+        "title": "Wretched",
+        "authors": [
+          "Emily McIntire"
+        ]
+      }
+    ]
+  },
+  "archive-90901df82e5680799a30": {
+    "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL24848242W",
+        "matchedTerms": [
+          "genre:science fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL24848242W",
+        "title": "The Dungeon Anarchist’s Cookbook",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-75b7bdd66ab568cf8965": {
+    "title": "KIN",
+    "author": "Tayari Jones",
+    "subjects": [
+      "Family & Relationships",
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL45346558W",
+        "matchedTerms": [
+          "Historical",
+          "Historical Fiction"
+        ]
+      },
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL45346558W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      },
+      "Family & Relationships": {
+        "sourceUrl": "https://openlibrary.org/works/OL45346558W",
+        "matchedTerms": [
+          "Family",
+          "Friendship"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL45346558W",
+        "title": "Kin",
+        "authors": [
+          "Tayari Jones"
+        ]
+      }
+    ]
+  },
+  "archive-1486b5a3e4619ce1678a": {
+    "title": "BETWEEN TWO FIRES",
+    "author": "Christopher Buehlman",
+    "subjects": [
+      "Fantasy",
+      "Historical Fiction",
+      "Horror"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL16585704W",
+        "matchedTerms": [
+          "Fiction, fantasy, general"
+        ]
+      },
+      "Historical Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL16585704W",
+        "matchedTerms": [
+          "Historical Fiction"
+        ]
+      },
+      "Horror": {
+        "sourceUrl": "https://openlibrary.org/works/OL16585704W",
+        "matchedTerms": [
+          "Fiction, horror"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL16585704W",
+        "title": "Between two fires",
+        "authors": [
+          "Christopher Buehlman"
+        ]
+      }
+    ]
+  },
+  "archive-5fbdd62ee09893bd583f": {
+    "title": "MOTHER OF DEATH AND DAWN",
+    "author": "Carissa Broadbent",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL27205634W",
+        "matchedTerms": [
+          "Fae",
+          "Fantasy",
+          "Fantasy Romance",
+          "Fiction, fantasy, general",
+          "High Fantasy",
+          "Magic"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL27205634W",
+        "matchedTerms": [
+          "Fantasy Romance",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL27205634W",
+        "title": "Mother of Death and Dawn",
+        "authors": [
+          "Carissa Broadbent"
+        ]
+      }
+    ]
+  },
+  "archive-bc0efd479fbdfe17bcbe": {
+    "title": "YESTERYEAR",
+    "author": "Caro Claire Burke",
+    "subjects": [
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL45177696W",
+        "matchedTerms": [
+          "genre:thriller"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL45177696W",
+        "title": "Yesteryear",
+        "authors": [
+          "Caro Claire Burke"
+        ]
+      }
+    ]
+  },
+  "archive-2c6f7c58178a20b72123": {
+    "title": "THE CARETAKER",
+    "author": "Marcus Kliewer",
+    "subjects": [
+      "Horror",
+      "Mystery & Suspense"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Horror": {
+        "sourceUrl": "https://openlibrary.org/works/OL45773943W",
+        "matchedTerms": [
+          "Horror",
+          "Horror Thriller"
+        ]
+      },
+      "Mystery & Suspense": {
+        "sourceUrl": "https://openlibrary.org/works/OL45773943W",
+        "matchedTerms": [
+          "Horror Thriller",
+          "Mystery",
+          "Mystery Thriller",
+          "Suspense",
+          "Thriller"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL45773943W",
+        "title": "The Caretaker",
+        "authors": [
+          "Marcus Kliewer"
+        ]
+      }
+    ]
+  },
+  "archive-2f34f1e267fc887e2cc3": {
+    "title": "A PARADE OF HORRIBLES",
+    "author": "Matt Dinniman",
+    "subjects": [
+      "Fantasy"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL44344307W",
+        "matchedTerms": [
+          "genre:science fantasy"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44344307W",
+        "title": "A Parade of Horribles",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      }
+    ]
+  },
+  "archive-df6c1b0da1190aa58a5d": {
+    "title": "THE BALLAD OF FALLING DRAGONS",
+    "author": "Sarah A. Parker",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL42402979W",
+        "matchedTerms": [
+          "Dragons",
+          "Fae",
+          "Fantasy",
+          "Fantasy Romance"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL42402979W",
+        "matchedTerms": [
+          "Fantasy Romance",
+          "Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL42402979W",
+        "title": "The Ballad of Falling Dragons",
+        "authors": [
+          "Sarah A. Parker"
+        ]
+      }
+    ]
+  },
+  "archive-f1aee97e73b1eec3b719": {
+    "title": "KISSED BY THE GODS",
+    "author": "Caty Rogan",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL45996969W",
+        "matchedTerms": [
+          "Fiction, fantasy, general"
+        ]
+      },
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL45996969W",
+        "matchedTerms": [
+          "Fiction, romance, general"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL45996969W",
+        "title": "Kissed by the Gods",
+        "authors": [
+          "Caty Rogan"
+        ]
+      }
+    ]
+  },
+  "archive-a94776335481fb51bd92": {
+    "title": "THE POISON DAUGHTER",
+    "author": "Sheila Masterson",
+    "subjects": [
+      "Fantasy",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL44997725W",
+        "matchedTerms": [
+          "Dark Fantasy Romance",
+          "Dark Romance",
+          "Enemies To Lovers"
+        ]
+      },
+      "Fantasy": {
+        "sourceUrl": "https://openlibrary.org/works/OL44997725W",
+        "matchedTerms": [
+          "Dark Fantasy Romance"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL44997725W",
+        "title": "The Poison Daughter",
+        "authors": [
+          "Sheila Masterson"
+        ]
+      }
+    ]
+  },
+  "archive-30f372072ef5baefff69": {
+    "title": "HOLLYWOOD, ENDING",
+    "author": "John Green",
+    "subjects": [
+      "Literary Fiction",
+      "Romance"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Romance": {
+        "sourceUrl": "https://openlibrary.org/works/OL45345712W",
+        "matchedTerms": [
+          "Contemporary Romance",
+          "Romance"
+        ]
+      },
+      "Literary Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL45345712W",
+        "matchedTerms": [
+          "Literary Fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL45345712W",
+        "title": "Hollywood, Ending",
+        "authors": [
+          "John Green"
+        ]
+      },
+      {
+        "key": "/works/OL45985843W",
+        "title": "Hollywood, Ending",
+        "authors": [
+          "John Green"
+        ]
+      },
+      {
+        "key": "/works/OL46176119W",
+        "title": "Hollywood, Ending",
+        "authors": [
+          "John Green"
+        ]
+      }
+    ]
+  },
+  "archive-484d7cdddacf3d621ff5": {
+    "title": "OTHER WORLDS THAN THESE",
+    "author": "Stephen King and Peter Straub",
+    "subjects": [
+      "Science Fiction"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Science Fiction": {
+        "sourceUrl": "https://openlibrary.org/works/OL17400760W",
+        "matchedTerms": [
+          "Science fiction"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL17400760W",
+        "title": "Other Worlds Than These",
+        "authors": [
+          "John Joseph Adams",
+          "Lev Grossman",
+          "Stephen Baxter",
+          "Paul McAuley",
+          "Seanan McGuire",
+          "Michael Swanwick",
+          "Gregory Benford",
+          "William Alexander",
+          "Pat Cadigan",
+          "Joyce Carol Oates",
+          "John R. Fultz",
+          "Vandana Singh",
+          "Paul Melko",
+          "Kelly Link",
+          "Ian McDonald",
+          "Simon McCaffery",
+          "E. Catherine Tobler",
+          "Alastair Reynolds",
+          "Ursula K. Le Guin",
+          "Stephen King",
+          "David Barr Kirtley",
+          "Mercurio D. Rivera",
+          "Jeff VanderMeer",
+          "George R. R. Martin",
+          "Carrie Vaughn",
+          "Tim Pratt",
+          "Robert Reed",
+          "Catherynne M. Valente",
+          "Yoon Ha Lee",
+          "Orson Scott Card",
+          "Christie Yant",
+          "Robert Silverberg",
+          "Ross E. Lockhart"
+        ]
+      },
+      {
+        "key": "/works/OL44907743W",
+        "title": "Other Worlds Than These",
+        "authors": [
+          "Stephen King",
+          "Peter Straub"
+        ]
+      }
+    ]
+  },
+  "archive-225f490a766ea15d2e75": {
+    "title": "IN THE SHADOW OF EIGHT",
+    "author": "Collin Gosselin with Allie Kingsley Baker",
+    "subjects": [
+      "Arts & Culture"
+    ],
+    "method": "public-catalog-subjects",
+    "evidence": {
+      "Arts & Culture": {
+        "sourceUrl": "https://openlibrary.org/works/OL46103564W",
+        "matchedTerms": [
+          "Literature"
+        ]
+      }
+    },
+    "matchedRecords": [
+      {
+        "key": "/works/OL46103564W",
+        "title": "In the Shadow of Eight",
+        "authors": [
+          "Collin Gosselin",
+          "Allie Kingsley Baker"
+        ]
+      }
+    ]
+  }
+}
