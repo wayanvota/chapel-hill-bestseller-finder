@@ -3,6 +3,7 @@ import {dateRange,type Book,type Observation} from '../server/domain';
 type Row=Book&{googleBooksUrl:string;searchUrl:string};
 type Coverage={imported:number;expected:number;missing:string[];complete:boolean;totalIssues:number};
 type Filters={list:string;period:string;subject:string;scope:string;from:string;to:string};
+const apiBase=import.meta.env.VITE_API_BASE||import.meta.env.BASE_URL;
 const today=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const date=(v:string)=>new Date(v+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
 const clock=(v:string)=>new Date(v).toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit',second:'2-digit',timeZoneName:'short'});
@@ -10,7 +11,7 @@ function initial():Filters{const p=new URLSearchParams(location.search);return {
 export function App(){
  const [filters,setFilters]=useState(initial),[applied,setApplied]=useState(initial),[books,setBooks]=useState<Row[]>([]),[coverage,setCoverage]=useState<Coverage|null>(null),[observations,setObservations]=useState<Record<string,Observation>>({}),[loading,setLoading]=useState(false),[checking,setChecking]=useState(false),[error,setError]=useState(''),[view,setView]=useState('all'),[sort,setSort]=useState(new URLSearchParams(location.search).get('sort')||'rank'),[page,setPage]=useState(0),[search,setSearch]=useState(''),[now,setNow]=useState(Date.now()),[hasChecked,setHasChecked]=useState(false);
  const [subjects,setSubjects]=useState<string[]>(['History']);
- useEffect(()=>{fetch(import.meta.env.BASE_URL+'api/subjects').then(r=>{if(!r.ok)throw Error('Subject filters could not load.');return r.json();}).then(d=>setSubjects(d.subjects)).catch(()=>setError('Subject filters could not load. Reload to try again.'));},[]);
+ useEffect(()=>{fetch(apiBase+'api/subjects').then(r=>{if(!r.ok)throw Error('Subject filters could not load.');return r.json();}).then(d=>setSubjects(d.subjects)).catch(()=>setError('Subject filters could not load. Reload to try again.'));},[]);
  const request=useRef<AbortController|null>(null);const mounted=useRef(true);const resultRef=useRef<HTMLHeadingElement>(null);
  useEffect(()=>{mounted.current=true;load(filters);const timer=setInterval(()=>setNow(Date.now()),30000);return()=>{mounted.current=false;request.current?.abort();clearInterval(timer);};},[]);
  const fresh=(o?:Observation)=>!!o&&now-new Date(o.checkedAt).getTime()<300000;
@@ -18,7 +19,7 @@ export function App(){
  async function load(f:Filters){
   const [start,end]=dateRange(f.period,f.from,f.to,today());if(start>end){setError('The start year must come before the end year.');return [];}
   request.current?.abort();const controller=new AbortController();request.current=controller;setLoading(true);setError('');
-  try{const response=await fetch(import.meta.env.BASE_URL+'api/books?'+new URLSearchParams({list:f.list,start,end,subject:f.subject,scope:f.scope}),{signal:controller.signal});const data=await response.json();if(!response.ok)throw Error(data.error);if(!mounted.current)return [];
+  try{const response=await fetch(apiBase+'api/books?'+new URLSearchParams({list:f.list,start,end,subject:f.subject,scope:f.scope}),{signal:controller.signal});const data=await response.json();if(!response.ok)throw Error(data.error);if(!mounted.current)return [];
    setBooks(data.books);setCoverage(data.coverage);setApplied(f);setPage(0);setHasChecked(false);setObservations({});setView('all');sync(f);return data.books as Row[];
   }catch(e){if(e instanceof Error&&e.name!=='AbortError')setError(e.message);return [];}finally{if(mounted.current)setLoading(false);}
  }
@@ -27,7 +28,7 @@ export function App(){
   const ids=new Set(rows.map(b=>b.id));setObservations(old=>Object.fromEntries(Object.entries(old).filter(([id])=>!ids.has(id))));
   const controller=new AbortController();request.current=controller;
   try{
-   const response=await fetch(import.meta.env.BASE_URL+'api/availability',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids:rows.map(b=>b.id)}),signal:controller.signal});
+   const response=await fetch(apiBase+'api/availability',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids:rows.map(b=>b.id)}),signal:controller.signal});
    if(!response.ok){const data=await response.json();throw Error(data.error||'Catalog checks could not start.');}
    const reader=response.body!.getReader(),decoder=new TextDecoder();let buffer='';let received=0;
    while(true){const {done,value}=await reader.read();buffer+=decoder.decode(value,{stream:!done});const lines=buffer.split('\n');buffer=lines.pop()||'';for(const line of lines){if(!line.trim())continue;const message=JSON.parse(line);received+=message.observations.length;setObservations(old=>({...old,...Object.fromEntries(message.observations.map((o:Observation)=>[o.id,o]))}));setNow(Date.now());}if(done)break;}

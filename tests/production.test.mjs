@@ -9,6 +9,9 @@ test('production API serves archive, rejects foreign origins, and hides local fi
   await Promise.race([once(child.stdout,'data'),once(child,'exit').then(()=>{throw Error('API exited before listening');})]);
   const base='http://127.0.0.1:4199';
   assert.equal((await fetch(base+'/healthz')).status,200);
+  const preflight=await fetch(base+'/api/availability',{method:'OPTIONS',headers:{Origin:'https://wayan.com'}});
+  assert.equal(preflight.status,204);assert.equal(preflight.headers.get('Access-Control-Allow-Origin'),'https://wayan.com');
+  assert.equal((await fetch(base+'/api/availability',{method:'OPTIONS',headers:{Origin:'https://foreign.example'}})).status,403);
   const result=await (await fetch(base+'/api/books?list=hardcover-fiction&start=2021-11-23&end=2026-11-23&subject=Science%20Fiction&scope=all')).json();
   assert.equal(result.books.length,37);assert.equal(result.coverage.imported,261);
   assert.ok(result.books.every(b=>b.subjects.includes('Science Fiction')));

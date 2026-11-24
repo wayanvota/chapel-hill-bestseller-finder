@@ -46,8 +46,8 @@ Supersedes the general-category counts in the November 22 section: all 548 forme
 
 Original software is MIT licensed; see LICENSE and NOTICE.md for source-data attribution and exclusions.
 
-Use Node 24 or later. `npm ci`, `npm test`, `npm run test:production`, and `APP_BASE_PATH=/bestsellers/ npm run build` prepare the frontend. Upload only `dist/client/` to the `/bestsellers/` directory on the website. Keep the rest of the application outside its public document root.
+Use Node 24 or later. `npm ci`, `npm test`, `npm run test:production`, and `APP_BASE_PATH=/bestsellers/ VITE_API_BASE=https://chapel-hill-bestseller-finder.onrender.com/ npm run build` prepare the frontend. Upload only `dist/client/` to the `/bestsellers/` directory on the website. Keep the rest of the application outside its public document root.
 
-The Render service runs `npm ci --omit=dev` then `npm start`. Set `PUBLIC_ORIGIN=https://wayan.com`; `PORT` is provided by Render. `/healthz` confirms startup. Apache proxies only `/bestsellers/api/` to the service’s `/api/`. The local SQLite index is rebuilt from committed JSON on each new instance, so no persistent disk is required. Live library observations are not saved. The free Render service may pause when idle, delaying the first request.
+The Render service runs `npm ci --omit=dev` then `npm start`. Set `PUBLIC_ORIGIN=https://wayan.com`; `PORT` is provided by Render. `/healthz` confirms startup. The frontend calls the Render API over HTTPS. Cross-origin requests are allowed only from `PUBLIC_ORIGIN`. The local SQLite index is rebuilt from committed JSON on each new instance, so no persistent disk is required. Live library observations are not saved. The free Render service may pause when idle, delaying the first request.
 
 Downloaded source PDFs, extracted text, and research caches stay local and are not published under the software license. Runtime JSON indexes are included. To regenerate source-dependent subject decisions, first rebuild the source archive and enrichment caches using the scripts and their documented inputs.
